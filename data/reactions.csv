@@ -1,0 +1,3 @@
+ReactionID,Type,Stoichiometry,Orders,Phase,A,Ea,Reversible
+I1,initiation,"{""LIGH"": -1, ""C3H6"": 1, ""OH"": 1, ""RLIGM2A"": 1}","{""LIGH"": 1}",solid,1.00E+13,163254,FALSE
+I2,initiation,"{""LIGM2"": -1, ""RphenoxM2"": 1, ""RADIOM2"": 1}","{""LIGM2"": 1}",solid,5.00E+12,150000,FALSE

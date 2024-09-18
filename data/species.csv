@@ -1,0 +1,8 @@
+SpeciesID,MolecularWeight,Phase,InitialConcentration
+LIGH,436,Solid,1.0
+RLIGM2A,0,Gas,0.0
+OH,17,Gas,0.0
+C3H6,42,Gas,0.0
+LIGM2,379,solid,0.0
+RphenoxM2,152,solid,0.0
+RADIOM2,227,solid,0.0
