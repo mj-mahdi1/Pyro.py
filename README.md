@@ -4,10 +4,10 @@ Main program is in main.py
 Proposed structure:
 /lignin_pyrolysis/:(Root project folder)
 
-├── data/ (contains external data files like reactions.csv and species.csv)
+├── data/
 │   ├── reactions.csv
 │   └── species.csv
-├── modules/ (Contains all the Python modules .py files that make the codebase)
+├── modules/ 
 │   ├── __init__.py
 │   ├── reactions.py
 │   ├── species.py
@@ -15,5 +15,5 @@ Proposed structure:
 │   ├── kinetics.py
 │   ├── ode_solver.py
 │   └── utils.py
-├── main.py (The main script that runs the simulation)
+├── main.py 
 └── README.md
