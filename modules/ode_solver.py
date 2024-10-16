@@ -19,7 +19,9 @@ def solve_odes(t_span, C0, reactions_list, species_indices, T, t_eval=None):
         fun=lambda t, C: odes(t, C, reactions_list, species_indices, T),
         t_span=t_span,
         y0=C0,
-        method='BDF',  # Suitable for stiff systems
-        t_eval=t_eval
+        #method='BDF',  # Suitable for stiff systems
+        method='LSODA',
+        t_eval=t_eval,
+        #max_step=1e-2
     )
     return result

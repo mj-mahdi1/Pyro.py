@@ -1,0 +1,407 @@
+ReactionID,Type,Stoichiometry,Orders,Phase,A,Ea,Reversible
+I1,initiation,"{""PLIGH"": -1, ""PRLIGH"": 1}","{""PLIGH"": 1, ""PRLIGH"": 0}",solid,1.00E+13,163254,False
+I2,initiation,"{""LIGH"": -1, ""C3H6"": 1, ""OH"": 1, ""RLIGM2A"": 1}","{""LIGH"": 1, ""C3H6"": 0, ""OH"": 0, ""RLIGM2A"": 0}",gas,1.00E+13,163254,False
+I3,initiation,"{""LIGM2"": -1, ""RphenoxM2"": 1, ""RADIOM2"": 1}","{""LIGM2"": 1, ""RphenoxM2"": 0, ""RADIOM2"": 0}",gas,1.00E+13,163254,False
+I4,initiation,"{""PLIGM2"": -1, ""RphenoxM2"": 1, ""PRADIOM2"": 1}","{""PLIGM2"": 1, ""RphenoxM2"": 0, ""PRADIOM2"": 0}",gas,1.00E+13,163254,False
+I5,initiation,"{""LIG"": -1, ""Rphenox"": 1, ""RADIO"": 1}","{""LIG"": 1, ""Rphenox"": 0, ""RADIO"": 0}",gas,1.00E+13,184184,False
+I6,initiation,"{""PLIG"": -1, ""Rphenox"": 1, ""PRADIO"": 1}","{""PLIG"": 1, ""Rphenox"": 0, ""PRADIO"": 0}",gas,1.00E+13,188370,False
+I7,initiation,"{""PADIOM2"": -1, ""PRADIOM2"": 1}","{""PADIOM2"": 1, ""PRADIOM2"": 0}",solid,1.00E+13,171626,False
+I8,initiation,"{""PADIO"": -1, ""PRADIO"": 1}","{""PADIO"": 1, ""PRADIO"": 0}",solid,1.00E+13,179998,False
+P9,propagation,"{""PKETM2"": -1, ""PRKETM2"": 1}","{""PKETM2"": 1, ""PRKETM2"": 0}",solid,1.00E+13,167440,False
+P10,propagation,"{""PRKETM2"": -1, ""KETDM2"": 1, ""OH"": 1}","{""PRKETM2"": 1, ""KETDM2"": 0, ""OH"": 0}",solid,1.00E+13,121394,False
+P11,propagation,"{""RphenoxM2"": -1, ""CO"": 1, ""C10H2M4"": 0, ""H2"": 0}","{""RphenoxM2"": 1, ""CO"": 0, ""C10H2M4"": 0, ""H2"": 0}",gas,4.00E+10,209300,False
+P12,propagation,"{""Rphenox"": -1, ""CO"": 1, ""C10H2"": 0, ""H2"": 1}","{""Rphenox"": 1, ""CO"": 0, ""C10H2"": 0, ""H2"": 0}",gas,4.00E+10,209300,False
+I13,initiation,"{""RLIGH"": -1, ""RLIGM2A"": 1, ""ALD3"": 1}","{""RLIGH"": 1, ""RLIGM2A"": 0, ""ALD3"": 0}",gas,1.00E+13,133952,False
+I14,initiation,"{""PRLIGH2"": -1, ""PRLIGM2A"": 1, ""ALD3"": 1}","{""PRLIGH2"": 1, ""PRLIGM2A"": 0, ""ALD3"": 0}",solid,1.00E+13,133952,False
+I15,initiation,"{""RADIOM2"": -1, ""RMGUAI"": 1, ""C3H6O2"": 1}","{""RADIOM2"": 1, ""RMGUAI"": 0, ""C3H6O2"": 0}",gas,1.00E+13,133952,False
+I16,initiation,"{""RLIGM2A"": -1, ""KETM2"": 1, ""RphenoxM2"": 1}","{""RLIGM2A"": 1, ""KETM2"": 0, ""RphenoxM2"": 0}",gas,5.00E+12,133952,False
+I17,initiation,"{""PRLIGM2A"": -1, ""PKETM2"": 1, ""RphenoxM2"": 1}","{""PRLIGM2A"": 1, ""PKETM2"": 0, ""RphenoxM2"": 0}",gas,5.00E+12,133952,False
+I18,initiation,"{""RLIGM2B"": -1, ""RMGUAI"": 1, ""PFET3M2"": 1}","{""RLIGM2B"": 1, ""RMGUAI"": 0, ""PFET3M2"": 0}",gas,1.00E+13,163254,False
+P19,propagation,"{""PRFET3M2"": -1, ""RphenoxM2"": 1, ""C3H4O2"": 1}","{""PRFET3M2"": 0, ""RphenoxM2"": 0, ""C3H4O2"": 0}",gas,1.00E+13,133952,False
+I20,initiation,"{""RADIO"": -1, ""RPHENOL"": 1, ""C3H6O2"": 1}","{""RADIO"": 1, ""RPHENOL"": 0, ""C3H6O2"": 0}",gas,1.00E+13,163254,False
+I21,initiation,"{""RLIGA"": -1, ""KET"": 1, ""Rphenox"": 1}","{""RLIGA"": 1, ""KET"": 0, ""Rphenox"": 0}",gas,1.00E+13,138138,False
+I22,initiation,"{""RLIGB"": -1, ""RPHENOL"": 1, ""PFET3"": 1}","{""RLIGB"": 1, ""RPHENOL"": 0, ""PFET3"": 0}",gas,1.00E+13,163254,False
+P23,propagation,"{""PRFET3"": -1, ""Rphenox"": 1, ""C3H4O2"": 1}","{""PRFET3"": 1, ""Rphenox"": 0, ""C3H4O2"": 0}",gas,1.00E+13,138138,False
+I24,initiation,"{""RADIOM2"": -1, ""OH"": 1, ""SYNAPYL"": 1}","{""RADIOM2"": 1, ""OH"": 0, ""SYNAPYL"": 0}",gas,3.00E+11,104650,False
+T25,termination,"{""RKETM2"": -1, ""OH"": 1, ""KETDM2"": 1}","{""RKETM2"": 1, ""OH"": 0, ""KETDM2"": 0}",gas,3.00E+11,104650,False
+I26,initiation,"{""RADIO"": -1, ""OH"": 1, ""COUMARYL"": 1}","{""RADIO"": 1, ""OH"": 0, ""COUMARYL"": 0}",gas,3.00E+11,104650,False
+T27,termination,"{""RKET"": -1, ""OH"": 1, ""KETD"": 1}","{""RKET"": 1, ""OH"": 0, ""KETD"": 0}",gas,3.00E+11,113022,False
+U28,unknown,"{""RC3H7O2"": -1, ""RCH3O"": 1, ""CH3CHO"": 1}","{""RC3H7O2"": 1, ""RCH3O"": 0, ""CH3CHO"": 0}",gas,1.00E+13,129766,False
+P29,propagation,"{""C10H2M4"": 0, ""RCH3O"": 1, ""Rphenox"": 1}","{""C10H2M4"": 1, ""RCH3O"": 0, ""Rphenox"": 0}",gas,1.00E+13,196742,False
+P30,propagation,"{""C10H2M2"": -1, ""RCH3O"": 1, ""C10H2"": 0, ""Rphenox"": 1}","{""C10H2M2"": 1, ""RCH3O"": 0, ""C10H2"": 0, ""Rphenox"": 0}",gas,1.00E+13,196742,False
+I31,initiation,"{""PLIGC"": -1, ""PLIG"": 1, ""CH2CO"": 1}","{""PLIGC"": 1, ""PLIG"": 0, ""CH2CO"": 0}",solid,1.00E+08,121394,False
+I32,initiation,"{""PLIGO"": -1, ""PLIGM2"": 1, ""CO2"": 1}","{""PLIGO"": 1, ""PLIGM2"": 0, ""CO2"": 0}",solid,1.00E+09,108836,False
+I33,initiation,"{""ADIOM2"": -1, ""RphenoxM2"": -1, ""C10H2M4"": 1, ""H2"": 0, ""PH2"": 1, ""PCOH"": 2, ""RC3H7O2"": 1}","{""ADIOM2"": 1, ""RphenoxM2"": 1, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOH"": 0, ""RC3H7O2"": 0}",gas,1.00E+09,121394,False
+P34,propagation,"{""KETM2"": -1, ""RphenoxM2"": -1, ""C10H2M4"": 1, ""H2"": 0, ""PH2"": 1, ""PCOH"": 2, ""RC3H5O2"": 1}","{""KETM2"": 1, ""RphenoxM2"": 1, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOH"": 0, ""RC3H5O2"": 0}",gas,1.00E+09,121394,False
+P35,propagation,"{""KETDM2"": -1, ""RphenoxM2"": -1, ""C10H2M4"": 1, ""H2"": 0, ""PH2"": 1, ""PCOH"": 2, ""RC3H3O"": 1}","{""KETDM2"": 1, ""RphenoxM2"": 1, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOH"": 0, ""RC3H3O"": 0}",gas,1.00E+09,121394,False
+P36,propagation,"{""SYNAPYL"": -1, ""RphenoxM2"": -1, ""C10H2M4"": 1, ""H2"": 1, ""PH2"": 1, ""PCOH"": 2, ""RC3H3O"": 1}","{""SYNAPYL"": 1, ""RphenoxM2"": 1, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOH"": 0, ""RC3H3O"": 0}",gas,1.00E+09,121394,False
+I37,initiation,"{""ADIOM2"": -1, ""Rphenox"": -1, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 1, ""PCOS"": 1, ""PCOH"": 1, ""RC3H7O2"": 1}","{""ADIOM2"": 1, ""Rphenox"": 1, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""PCOH"": 0, ""RC3H7O2"": 0}",gas,1.00E+09,121394,False
+P38,propagation,"{""KETM2"": -1, ""Rphenox"": -1, ""C10H2M4"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 2, ""PCOS"": 2, ""RC3H5O2"": 1}","{""KETM2"": 1, ""Rphenox"": 1, ""C10H2M4"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""RC3H5O2"": 0}",gas,1.00E+09,121394,False
+P39,propagation,"{""KETDM2"": -1, ""Rphenox"": -1, ""C10H2M4"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 2, ""PCOS"": 1, ""PCOH"": 1, ""RC3H3O"": 1}","{""KETDM2"": 1, ""Rphenox"": 1, ""C10H2M4"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""PCOH"": 0, ""RC3H3O"": 0}",gas,1.00E+09,121394,False
+P40,propagation,"{""SYNAPYL"": -1, ""Rphenox"": -1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 1, ""PH2"": 2, ""PCOH"": 1, ""PCOS"": 1, ""RC3H3O"": 1}","{""SYNAPYL"": 1, ""Rphenox"": 1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOH"": 0, ""PCOS"": 0, ""RC3H3O"": 0}",gas,1.00E+09,121394,False
+I41,initiation,"{""ADIO"": -1, ""Rphenox"": -1, ""C10H2"": 1, ""H2"": 1, ""PH2"": 2, ""PCOS"": 2, ""RC3H7O2"": 1}","{""ADIO"": 1, ""Rphenox"": 1, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""RC3H7O2"": 0}",gas,1.00E+09,121394,False
+P42,propagation,"{""KET"": -1, ""Rphenox"": -1, ""C10H2"": 1, ""H2"": 1, ""PCOS"": 2, ""RC3H5O2"": 1, ""PH2"": 2}","{""KET"": 1, ""Rphenox"": 1, ""C10H2"": 0, ""H2"": 0, ""PCOS"": 0, ""RC3H5O2"": 0, ""PH2"": 0}",gas,1.00E+09,121394,False
+P43,propagation,"{""KETD"": -1, ""Rphenox"": -1, ""C10H2"": 1, ""H2"": 1, ""PCOS"": 2, ""RC3H3O"": 1, ""PH2"": 2}","{""KETD"": 1, ""Rphenox"": 1, ""C10H2"": 0, ""H2"": 0, ""PCOS"": 0, ""RC3H3O"": 0, ""PH2"": 0}",gas,1.00E+09,121394,False
+P44,propagation,"{""COUMARYL"": -1, ""Rphenox"": -1, ""C10H2"": 1, ""H2"": 2, ""PCOS"": 2, ""RC3H3O"": 1, ""PH2"": 2}","{""COUMARYL"": 1, ""Rphenox"": 1, ""C10H2"": 0, ""H2"": 0, ""PCOS"": 0, ""RC3H3O"": 0, ""PH2"": 0}",gas,1.00E+09,121394,False
+I45,initiation,"{""ADIO"": -1, ""RphenoxM2"": -1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 1, ""PH2"": 1, ""PCOS"": 1, ""PCOH"": 1, ""RC3H7O2"": 1}","{""ADIO"": 1, ""RphenoxM2"": 1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""PCOH"": 0, ""RC3H7O2"": 0}",gas,1.00E+09,121394,False
+P46,propagation,"{""KET"": -1, ""RphenoxM2"": -1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 1, ""PH2"": 1, ""PCOS"": 1, ""PCOH"": 1, ""RC3H5O2"": 1}","{""KET"": 1, ""RphenoxM2"": 1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""PCOH"": 0, ""RC3H5O2"": 0}",gas,1.00E+09,121394,False
+P47,propagation,"{""KETD"": -1, ""RphenoxM2"": -1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 1, ""PH2"": 1, ""PCOS"": 1, ""PCOH"": 1, ""RC3H3O"": 1}","{""KETD"": 1, ""RphenoxM2"": 1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""PCOH"": 0, ""RC3H3O"": 0}",gas,1.00E+09,121394,False
+P48,propagation,"{""COUMARYL"": -1, ""RphenoxM2"": -1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 1, ""PH2"": 2, ""PCOS"": 1, ""PCOH"": 1, ""RC3H3O"": 1}","{""COUMARYL"": 1, ""RphenoxM2"": 1, ""C10H2"": 0, ""C10H2M4"": 0, ""H2"": 0, ""PH2"": 0, ""PCOS"": 0, ""PCOH"": 0, ""RC3H3O"": 0}",gas,1.00E+09,121394,False
+P49,propagation,"{""C10H2M4"": 1, ""RphenoxM2"": -1, ""C10H2M2"": 0, ""RCH3O"": 1, ""H2"": 0, ""PCOH"": 1}","{""C10H2M4"": 1, ""RphenoxM2"": 1, ""C10H2M2"": 0, ""RCH3O"": 0, ""H2"": 0, ""PCOH"": 0}",gas,1.00E+09,115115,False
+P50,propagation,"{""C10H2M2"": 0, ""RphenoxM2"": -1, ""C10H2"": 0, ""RCH3O"": 1, ""C10H2M4"": 0, ""H2"": 0, ""PCOH"": 1}","{""C10H2M2"": 1, ""RphenoxM2"": 1, ""C10H2"": 0, ""RCH3O"": 0, ""C10H2M4"": 0, ""H2"": 0, ""PCOH"": 0}",gas,1.00E+09,115115,False
+P51,propagation,"{""C10H2M4"": 0, ""Rphenox"": -1, ""C10H2M2"": 0, ""RCH3O"": 1, ""C10H2"": 0, ""H2"": 1, ""PCOS"": 1}","{""C10H2M4"": 1, ""Rphenox"": 1, ""C10H2M2"": 0, ""RCH3O"": 0, ""C10H2"": 0, ""H2"": 0, ""PCOS"": 0}",gas,1.00E+09,117208,False
+P52,propagation,"{""C10H2M2"": 0, ""Rphenox"": -1, ""RCH3O"": 1, ""C10H2"": 1, ""H2"": 1, ""PCOS"": 1}","{""C10H2M2"": 1, ""Rphenox"": 1, ""RCH3O"": 0, ""C10H2"": 0, ""H2"": 0, ""PCOS"": 0}",gas,1.00E+09,117208,False
+P53,propagation,"{""RCH3O"": -1, ""Rphenox"": -1, ""RCH3"": 1, ""CO2"": 1, ""C10H2"": 0, ""H2"": 1}","{""RCH3O"": 1, ""Rphenox"": 1, ""RCH3"": 0, ""CO2"": 0, ""C10H2"": 0, ""H2"": 0}",gas,1.00E+08,54418,False
+P54,propagation,"{""RCH3O"": -1, ""RphenoxM2"": -1, ""RCH3"": 1, ""CO2"": 1, ""C10H2M4"": 0, ""H2"": 0}","{""RCH3O"": 1, ""RphenoxM2"": 1, ""RCH3"": 0, ""CO2"": 0, ""C10H2M4"": 0, ""H2"": 0}",gas,1.00E+08,54418,False
+P55,propagation,"{""RphenoxM2"": -1, ""RCH3"": -1, ""PCOH"": 1, ""C10H2M4"": 0, ""PH2"": 0, ""PCH3"": 1}","{""RphenoxM2"": 1, ""RCH3"": 1, ""PCOH"": 0, ""C10H2M4"": 0, ""PH2"": 0, ""PCH3"": 0}",gas,1.00E+08,48139,False
+P56,propagation,"{""Rphenox"": -1, ""RCH3"": -1, ""PCOH"": 1, ""C10H2"": 0, ""PH2"": 1, ""PCH3"": 1}","{""Rphenox"": 1, ""RCH3"": 1, ""PCOH"": 0, ""C10H2"": 0, ""PH2"": 0, ""PCH3"": 0}",gas,1.00E+08,48139,False
+T57,termination,"{""RCH3O"": -1, ""RCH3"": -1, ""ETOH"": 1}","{""RCH3O"": 1, ""RCH3"": 1, ""ETOH"": 0}",gas,1.00E+08,12558,False
+U58,unknown,"{""RCH3O"": -2, ""CH3CHO"": 1, ""H2O"": 1}","{""RCH3O"": 1, ""CH3CHO"": 1, ""H2O"": 0}",gas,1.00E+08,12558,False
+I59,initiation,"{""RCH3O"": -1, ""PRADIOM2"": -1, ""PCH2OH"": 1, ""PADIOM2"": 1}","{""RCH3O"": 1, ""PRADIOM2"": 1, ""PCH2OH"": 0, ""PADIOM2"": 0}",gas,1.00E+08,52325,False
+P60,propagation,"{""RCH3O"": -1, ""PRKETM2"": -1, ""PCH2OH"": 1, ""PKETM2"": 1}","{""RCH3O"": 1, ""PRKETM2"": 1, ""PCH2OH"": 0, ""PKETM2"": 0}",gas,1.00E+08,52325,False
+I61,initiation,"{""RADIOM2"": -2, ""PCH2OH"": 2, ""PCHP2"": 2, ""PCHOHP"": 2, ""PH2"": 2, ""C10H2M4"": 1, ""PCOH"": 2}","{""RADIOM2"": 1, ""PCH2OH"": 0, ""PCHP2"": 0, ""PCHOHP"": 0, ""PH2"": 0, ""C10H2M4"": 0, ""PCOH"": 0}",gas,3.16E+07,83720,False
+I62,initiation,"{""RLIGM2B"": -2, ""CHAR"": 0, ""PCH2OH"": 2, ""PCHOHP"": 2, ""PH2"": 3, ""C10H2M4"": 2, ""PCOH"": 4}","{""RLIGM2B"": 1, ""CHAR"": 0, ""PCH2OH"": 0, ""PCHOHP"": 0, ""PH2"": 0, ""C10H2M4"": 0, ""PCOH"": 0}",gas,3.16E+07,83720,False
+I63,initiation,"{""RLIGM2A"": -2, ""PCOHP2"": 2, ""H2O"": 2, ""PC2H2"": 2, ""PCOH"": 4, ""PH2"": 3, ""C10H2M4"": 2}","{""RLIGM2A"": 1, ""PCOHP2"": 0, ""H2O"": 0, ""PC2H2"": 0, ""PCOH"": 0, ""PH2"": 0, ""C10H2M4"": 0}",gas,3.16E+07,83720,False
+I64,initiation,"{""RMGUAI"": -2, ""PH2"": 2, ""C10H2M4"": 1, ""PCOH"": 2}","{""RMGUAI"": 1, ""PH2"": 0, ""C10H2M4"": 0, ""PCOH"": 0}",gas,3.16E+07,83720,False
+P65,propagation,"{""RKETM2"": -2, ""PCHP2"": 2, ""PCH2OH"": 2, ""PH2"": 2, ""C10H2M4"": 1, ""PCOH"": 4}","{""RKETM2"": 1, ""PCHP2"": 0, ""PCH2OH"": 0, ""PH2"": 0, ""C10H2M4"": 0, ""PCOH"": 0}",gas,3.16E+07,83720,False
+P66,propagation,"{""PRFET3M2"": -1, ""PCOH"": 2, ""C10H2M4"": 1, ""PCHP2"": 2, ""PCHO"": 2, ""PCHOHP"": 2, ""PH2"": 1}","{""PRFET3M2"": 1, ""PCOH"": 0, ""C10H2M4"": 0, ""PCHP2"": 0, ""PCHO"": 0, ""PCHOHP"": 0, ""PH2"": 0}",solid,3.16E+07,83720,False
+P67,propagation,"{""RC3H7O2"": -2, ""H2O"": 2, ""PC2H2"": 2, ""PCHOHP"": 2, ""PH2"": 1}","{""RC3H7O2"": 1, ""H2O"": 0, ""PC2H2"": 0, ""PCHOHP"": 0, ""PH2"": 0}",gas,1.00E+08,12558,False
+P68,propagation,"{""RC3H5O2"": -2, ""H2O"": 2, ""PC2H2"": 2, ""PH2"": 1, ""PCOH"": 2}","{""RC3H5O2"": 1, ""H2O"": 0, ""PC2H2"": 0, ""PH2"": 0, ""PCOH"": 0}",gas,1.00E+08,12558,False
+P69,propagation,"{""RC3H3O"": -2, ""PC2H2"": 2, ""PH2"": 1, ""PCOH"": 2}","{""RC3H3O"": 1, ""PC2H2"": 0, ""PH2"": 0, ""PCOH"": 0}",gas,1.00E+08,12558,False
+U70,unknown,"{""OH"": -1, ""RCH3"": -1, ""CH3OH"": 1}","{""OH"": 1, ""RCH3"": 1, ""CH3OH"": 0}",gas,1.00E+08,12558,False
+U71,unknown,"{""RCH3"": -2, ""C2H6"": 1}","{""RCH3"": 1, ""C2H6"": 0}",gas,1.00E+08,12558,False
+I72,initiation,"{""RCH3"": -1, ""PRADIOM2"": -1, ""PCH3"": 1, ""PADIOM2"": 1}","{""RCH3"": 1, ""PRADIOM2"": 1, ""PCH3"": 0, ""PADIOM2"": 0}",gas,1.00E+08,48139,False
+P73,propagation,"{""RCH3"": -1, ""PRKETM2"": -1, ""PCH3"": 1, ""PKETM2"": 1}","{""RCH3"": 1, ""PRKETM2"": 1, ""PCH3"": 0, ""PKETM2"": 0}",gas,1.00E+08,48139,False
+I74,initiation,"{""Rphenox"": -1, ""RLIGB"": -1, ""PCOS"": 3, ""PCOHP2"": 1, ""H2O"": 1, ""PC2H2"": 1, ""C10H2"": 1, ""PH2"": 3, ""H2"": 2}","{""Rphenox"": 1, ""RLIGB"": 1, ""PCOS"": 0, ""PCOHP2"": 0, ""H2O"": 0, ""PC2H2"": 0, ""C10H2"": 0, ""PH2"": 0, ""H2"": 0}",gas,3.16E+07,83720,False
+I75,initiation,"{""RADIO"": -2, ""PCH2OH"": 2, ""PCHP2"": 2, ""PCHOHP"": 2, ""PCOS"": 1, ""PCOH"": 1, ""C10H2"": 1, ""H2"": 1, ""PH2"": 3}","{""RADIO"": 1, ""PCH2OH"": 0, ""PCHP2"": 0, ""PCHOHP"": 0, ""PCOS"": 0, ""PCOH"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0}",gas,3.16E+07,92092,False
+I76,initiation,"{""RLIGB"": -1, ""PCOS"": 3, ""CHAR"": 0, ""PCH2OH"": 2, ""PCHOHP"": 2, ""C10H2"": 2, ""PH2"": 5, ""H2"": 2}","{""RLIGB"": 1, ""PCOS"": 0, ""CHAR"": 0, ""PCH2OH"": 0, ""PCHOHP"": 0, ""C10H2"": 0, ""PH2"": 0, ""H2"": 0}",gas,3.16E+07,83720,False
+I77,initiation,"{""RLIGA"": -2, ""PCOHP2"": 2, ""H2O"": 2, ""PC2H2"": 2, ""C10H2"": 2, ""PCOS"": 4, ""PH2"": 5, ""H2"": 2}","{""RLIGA"": 1, ""PCOHP2"": 0, ""H2O"": 0, ""PC2H2"": 0, ""C10H2"": 0, ""PCOS"": 0, ""PH2"": 0, ""H2"": 0}",gas,3.16E+07,83720,False
+P78,propagation,"{""RKET"": -2, ""PCOH"": 3, ""PCHP2"": 2, ""PCH2OH"": 2, ""PCOS"": 1, ""C10H2"": 1, ""H2"": 2, ""PH2"": 2}","{""RKET"": 1, ""PCOH"": 0, ""PCHP2"": 0, ""PCH2OH"": 0, ""PCOS"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0}",gas,3.16E+07,83720,False
+P79,propagation,"{""PRFET3"": -1, ""PCHP2"": 2, ""PCHO"": 2, ""PCHOHP"": 2, ""PCOS"": 2, ""C10H2"": 1, ""H2"": 1, ""PH2"": 2}","{""PRFET3"": 1, ""PCHP2"": 0, ""PCHO"": 0, ""PCHOHP"": 0, ""PCOS"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0}",solid,3.16E+07,83720,False
+I80,initiation,"{""RLIGH"": -1, ""PCOHP2"": 2, ""H2O"": 4, ""PC2H2"": 2, ""PCOH"": 4, ""C10H2M4"": 2, ""H2"": 1, ""PCH3"": 2, ""PCHP2"": 2, ""PCH2P"": 2}","{""RLIGH"": 1, ""PCOHP2"": 0, ""H2O"": 0, ""PC2H2"": 0, ""PCOH"": 0, ""C10H2M4"": 0, ""H2"": 0, ""PCH3"": 0, ""PCHP2"": 0, ""PCH2P"": 0}",gas,3.16E+07,83720,False
+P81,propagation,"{""Rphenox"": -1, ""RPHENOL"": -1, ""PCOS"": 2, ""C10H2"": 1, ""H2"": 1, ""PH2"": 2}","{""Rphenox"": 1, ""RPHENOL"": 1, ""PCOS"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0}",gas,5.00E+07,83720,False
+P82,propagation,"{""Rphenox"": -1, ""RC3H3O"": -1, ""PCOS"": 1, ""C10H2"": 0, ""H2"": 1, ""PH2"": 1, ""PC2H2"": 1, ""PCOH"": 1}","{""Rphenox"": 1, ""RC3H3O"": 1, ""PCOS"": 0, ""C10H2"": 0, ""H2"": 0, ""PH2"": 0, ""PC2H2"": 0, ""PCOH"": 0}",gas,1.00E+08,48139,False
+P83,propagation,"{""Rphenox"": -1, ""CHAR"": 1, ""PCOS"": 1, ""C10H2"": 0, ""H2"": 1}","{""Rphenox"": 1, ""CHAR"": 0, ""PCOS"": 0, ""C10H2"": 0, ""H2"": 0}",gas,3.00E+07,104650,False
+P84,propagation,"{""RphenoxM2"": -1, ""CHAR"": 1, ""PCOS"": 1, ""C10H2M4"": 0, ""H2"": 0}","{""RphenoxM2"": 1, ""CHAR"": 0, ""PCOS"": 0, ""C10H2M4"": 0, ""H2"": 0}",gas,3.00E+07,104650,False
+I85,initiation,"{""ADIOM2"": -1, ""VADIOM2"": 1}","{""ADIOM2"": 1, ""VADIOM2"": 0}",solid,1,62790,False
+T86,termination,"{""KETM2"": -1, ""VKETM2"": 1}","{""KETM2"": 1, ""VKETM2"": 0}",solid,1,62790,False
+T87,termination,"{""KETDM2"": -1, ""VKETDM2"": 1}","{""KETDM2"": 1, ""VKETDM2"": 0}",solid,1,58604,False
+P88,propagation,"{""SYNAPYL"": -1, ""VSYNAPYL"": 1}","{""SYNAPYL"": 1, ""VSYNAPYL"": 0}",solid,1,62790,False
+I89,initiation,"{""MGUAI"": -1, ""VMGUAI"": 1}","{""MGUAI"": 1, ""VMGUAI"": 0}",solid,1,66976,False
+U90,unknown,"{""COUMARYL"": -1, ""VCOUMARYL"": 1}","{""COUMARYL"": 1, ""VCOUMARYL"": 0}",solid,1,83720,False
+I91,initiation,"{""ADIO"": -1, ""VADIO"": 1}","{""ADIO"": 1, ""VADIO"": 0}",solid,1,66976,False
+T92,termination,"{""KET"": -1, ""VKET"": 1}","{""KET"": 1, ""VKET"": 0}",solid,1,66976,False
+T93,termination,"{""KETD"": -1, ""VKETD"": 1}","{""KETD"": 1, ""VKETD"": 0}",solid,1,83720,False
+P94,propagation,"{""PHENOL"": -1, ""VPHENOL"": 1}","{""PHENOL"": 1, ""VPHENOL"": 0}",solid,1,58604,False
+P95,propagation,"{""PCOS"": -1, ""CO"": 1}","{""PCOS"": 1, ""CO"": 0}",solid,2.00E+08,209300,False
+P96,propagation,"{""PCOH"": -1, ""CO"": 1}","{""PCOH"": 1, ""CO"": 0}",solid,1.00E+07,138138,False
+P97,propagation,"{""PH2"": -1, ""H2"": 1}","{""PH2"": 1, ""H2"": 0}",solid,1.00E+10,209300,False
+P98,propagation,"{""PC2H2"": -1, ""H2"": 1, ""CHAR"": 0}","{""PC2H2"": 1, ""H2"": 0, ""CHAR"": 0}",solid,5.00E+08,205114,False
+P99,propagation,"{""PCH2OH"": -1, ""OH"": 1, ""PCH2P"": 1}","{""PCH2OH"": 1, ""OH"": 0, ""PCH2P"": 0}",solid,5.00E+08,100,False
+P100,propagation,"{""PCHOHP"": -1, ""OH"": 1, ""PC2H2"": 0}","{""PCHOHP"": 1, ""OH"": 0, ""PC2H2"": 0}",solid,5.00E+08,100,False
+P101,propagation,"{""PCOHP2"": -1, ""OH"": 1, ""CHAR"": 0}","{""PCOHP2"": 1, ""OH"": 0, ""CHAR"": 0}",solid,5.00E+08,100,False
+P102,propagation,"{""PCH3"": -1, ""RCH3"": 1}","{""PCH3"": 1, ""RCH3"": 0}",gas,1.00E+13,125580,False
+P103,propagation,"{""PCH2P"": -1, ""PCHP2"": 1, ""H2"": 0}","{""PCH2P"": 1, ""PCHP2"": 0, ""H2"": 0}",solid,5.00E+08,209300,False
+P104,propagation,"{""PCHP2"": -1, ""CHAR"": 0, ""H2"": 0}","{""PCHP2"": 1, ""CHAR"": 0, ""H2"": 0}",solid,5.00E+08,209300,False
+I105,initiation,"{""PLIGH"": -1, ""LIGH"": 1}","{""PLIGH"": 1, ""LIGH"": 0}",solid,1E13,154812,False
+I106,initiation,"{""PLIGC"": -1, ""LIGC"": 1}","{""PLIGC"": 1, ""LIGC"": 0}",solid,1E13,168458,False
+I107,initiation,"{""PLIGO"": -1, ""LIGO"": 1}","{""PLIGO"": 1, ""LIGO"": 0}",solid,1E13,154812,False
+I108,initiation,"{""LIGO"": -1, ""LIGM2"": 1, ""CO2"": 1}","{""LIGO"": 1, ""LIGM2"": 0, ""CO2"": 0}",solid,1E9,108836,False
+I109,initiation,"{""LIGC"": -1, ""LIG"": 1, ""CH2CO"": 1}","{""LIGC"": 1, ""LIG"": 0, ""CH2CO"": 0}",solid,1E8,121394,False
+I110,initiation,"{""PRADIO"": -2, ""PCOH"": 1, ""PCOS"": 1, ""PCH2OH"": 2, ""PCHP2"": 2, ""PCHOHP"": 2, ""C10H2"": 1, ""PH2"": 2, ""H2"": 1}","{""PRADIO"": 1, ""PCOH"": 0, ""PCOS"": 0, ""PCH2OH"": 0, ""PCHP2"": 0, ""PCHOHP"": 0, ""C10H2"": 0, ""PH2"": 0, ""H2"": 0}",solid,3.16E7,92092,False
+I111,initiation,"{""PRADIOM2"": -2, ""PCOH"": 2, ""PCH2OH"": 2, ""PCHP2"": 2, ""PCHOHP"": 2, ""PH2"": 1, ""C10H2M4"": 1}","{""PRADIOM2"": 1, ""PCOH"": 0, ""PCH2OH"": 0, ""PCHP2"": 0, ""PCHOHP"": 0, ""PH2"": 0, ""C10H2M4"": 0}",solid,3.16E7,83720,False
+P112,propagation,"{""PCHO"": -1, ""CO"": 1}","{""PCHO"": 1, ""CO"": 0}",solid,1E7,138138,False
+I113,initiation,"{""RC3H5O2"": -1, ""LIGH"": -1, ""C3H6O2"": 1, ""RLIGH"": 1}","{""RC3H5O2"": 1, ""LIGH"": 1, ""C3H6O2"": 0, ""RLIGH"": 0}",gas,2*10**8,66976,False
+I114,initiation,"{""PRFET3"": -1, ""LIGH"": -1, ""PFET3"": 1, ""RLIGH"": 1}","{""PRFET3"": 1, ""LIGH"": 1, ""PFET3"": 0, ""RLIGH"": 0}",gas,2*10**8,50232,False
+I115,initiation,"{""RC3H7O2"": -1, ""LIGH"": -1, ""C3H8O2"": 1, ""RLIGH"": 1}","{""RC3H7O2"": 1, ""LIGH"": 1, ""C3H8O2"": 0, ""RLIGH"": 0}",gas,2*10**8,58604,False
+I116,initiation,"{""RADIOM2"": -1, ""LIGH"": -1, ""ADIOM2"": 1, ""RLIGH"": 1}","{""RADIOM2"": 1, ""LIGH"": 1, ""ADIOM2"": 0, ""RLIGH"": 0}",gas,2*10**8,50232,False
+I117,initiation,"{""PRFET3M2"": -1, ""LIGH"": -1, ""PFET3M2"": 1, ""RLIGH"": 1}","{""PRFET3M2"": 1, ""LIGH"": 1, ""PFET3M2"": 0, ""RLIGH"": 0}",gas,2*10**8,50232,False
+I118,initiation,"{""PRLIGH"": -1, ""LIGH"": -1, ""PLIGH"": 1, ""RLIGH"": 1}","{""PRLIGH"": 1, ""LIGH"": 1, ""PLIGH"": 0, ""RLIGH"": 0}",gas,2*10**8.5,37674,False
+I119,initiation,"{""RLIGM2B"": -1, ""LIGH"": -1, ""LIGM2"": 1, ""RLIGH"": 1}","{""RLIGM2B"": 1, ""LIGH"": 1, ""LIGM2"": 0, ""RLIGH"": 0}",gas,2*10**8,50232,False
+I120,initiation,"{""RLIGM2A"": -1, ""LIGH"": -1, ""LIGM2"": 1, ""RLIGH"": 1}","{""RLIGM2A"": 1, ""LIGH"": 1, ""LIGM2"": 0, ""RLIGH"": 1}",gas,2*10**8,50232,False
+I121,initiation,"{""RCH3"": -1, ""LIGH"": -1, ""CH4"": 1, ""RLIGH"": 1}","{""RCH3"": 1, ""LIGH"": 1, ""CH4"": 0, ""RLIGH"": 0}",gas,2*10**8.5,43953,False
+I122,initiation,"{""PRKETM2"": -1, ""LIGH"": -1, ""PKETM2"": 1, ""RLIGH"": 1}","{""PRKETM2"": 1, ""LIGH"": 1, ""PKETM2"": 0, ""RLIGH"": 0}",gas,2*10**8,50232,False
+I123,initiation,"{""RKET"": -1, ""LIGH"": -1, ""KET"": 1, ""RLIGH"": 1}","{""RKET"": 1, ""LIGH"": 1, ""KET"": 0, ""RLIGH"": 0}",gas,2*10**8.5,50232,False
+I124,initiation,"{""PRADIO"": -1, ""LIGH"": -1, ""PADIO"": 1, ""RLIGH"": 1}","{""PRADIO"": 1, ""LIGH"": 1, ""PADIO"": 0, ""RLIGH"": 0}",gas,2*10**8,41860,False
+I125,initiation,"{""RC3H3O"": -1, ""LIGH"": -1, ""C3H4O"": 1, ""RLIGH"": 1}","{""RC3H3O"": 1, ""LIGH"": 1, ""C3H4O"": 0, ""RLIGH"": 0}",gas,2*10**8,79534,False
+I126,initiation,"{""RLIGB"": -1, ""LIGH"": -1, ""LIG"": 1, ""RLIGH"": 1}","{""RLIGB"": 1, ""LIGH"": 1, ""LIG"": 0, ""RLIGH"": 0}",gas,2*10**8,52325,False
+I127,initiation,"{""RLIGA"": -1, ""LIGH"": -1, ""LIG"": 1, ""RLIGH"": 1}","{""RLIGA"": 1, ""LIGH"": 1, ""LIG"": 0, ""RLIGH"": 0}",gas,2*10**8,52325,False
+I128,initiation,"{""PRADIOM2"": -1, ""LIGH"": -1, ""PADIOM2"": 1, ""RLIGH"": 1}","{""PRADIOM2"": 1, ""LIGH"": 1, ""PADIOM2"": 0, ""RLIGH"": 0}",gas,2*10**8.5,37674,False
+I129,initiation,"{""RMGUAI"": -1, ""LIGH"": -1, ""MGUAI"": 1, ""RLIGH"": 1}","{""RMGUAI"": 1, ""LIGH"": 1, ""MGUAI"": 0, ""RLIGH"": 0}",gas,2*10**8,50232,False
+I130,initiation,"{""OH"": -1, ""LIGH"": -1, ""H2O"": 1, ""RLIGH"": 1}","{""OH"": 1, ""LIGH"": 1, ""H2O"": 0, ""RLIGH"": 0}",gas,2*10**9.5,10465,False
+I131,initiation,"{""RCH3O"": -1, ""LIGH"": -1, ""CH3OH"": 1, ""RLIGH"": 1}","{""RCH3O"": 1, ""LIGH"": 1, ""CH3OH"": 0, ""RLIGH"": 0}",gas,2*10**8.5,28883,False
+I132,initiation,"{""RPHENOL"": -1, ""LIGH"": -1, ""PHENOL"": 1, ""RLIGH"": 1}","{""RPHENOL"": 1, ""LIGH"": 1, ""PHENOL"": 0, ""RLIGH"": 0}",gas,2*10**8.5,50232,False
+I133,initiation,"{""RADIO"": -1, ""LIGH"": -1, ""ADIO"": 1, ""RLIGH"": 1}","{""RADIO"": 1, ""LIGH"": 1, ""ADIO"": 0, ""RLIGH"": 0}",gas,2*10**8,50232,False
+I134,initiation,"{""RC3H5O2"": -1, ""PLIGH"": -1, ""C3H6O2"": 1, ""PRLIGH2"": 1}","{""RC3H5O2"": 1, ""PLIGH"": 1, ""C3H6O2"": 0, ""PRLIGH2"": 0}",gas,2*10**8,66976,False
+I135,initiation,"{""PRFET3"": -1, ""PLIGH"": -1, ""PFET3"": 1, ""PRLIGH2"": 1}","{""PRFET3"": 1, ""PLIGH"": 1, ""PFET3"": 0, ""PRLIGH2"": 0}",solid,2*10**8,50232,False
+I136,initiation,"{""RC3H7O2"": -1, ""PLIGH"": -1, ""C3H8O2"": 1, ""PRLIGH2"": 1}","{""RC3H7O2"": 1, ""PLIGH"": 1, ""C3H8O2"": 0, ""PRLIGH2"": 0}",gas,2*10**8,58604,False
+I137,initiation,"{""RADIOM2"": -1, ""PLIGH"": -1, ""ADIOM2"": 1, ""PRLIGH2"": 1}","{""RADIOM2"": 1, ""PLIGH"": 1, ""ADIOM2"": 0, ""PRLIGH2"": 0}",gas,2*10**8,50232,False
+I138,initiation,"{""PRFET3M2"": -1, ""PLIGH"": -1, ""PFET3M2"": 1, ""PRLIGH2"": 1}","{""PRFET3M2"": 1, ""PLIGH"": 1, ""PFET3M2"": 0, ""PRLIGH2"": 0}",solid,2*10**8,50232,False
+I139,initiation,"{""PRLIGH"": -1, ""PLIGH"": 1, ""PRLIGH2"": 1}","{""PRLIGH"": 1, ""PLIGH"": 0, ""PRLIGH2"": 0}",solid,2*10**8.5,41860-4186,False
+I140,initiation,"{""RLIGM2B"": -1, ""PLIGH"": -1, ""LIGM2"": 1, ""PRLIGH2"": 1}","{""RLIGM2B"": 1, ""PLIGH"": 1, ""LIGM2"": 0, ""PRLIGH2"": 0}",gas,2*10**8,50232,False
+I141,initiation,"{""RLIGM2A"": -1, ""PLIGH"": -1, ""LIGM2"": 1, ""PRLIGH2"": 1}","{""RLIGM2A"": 1, ""PLIGH"": 1, ""LIGM2"": 0, ""PRLIGH2"": 0}",gas,2*10**8,50232,False
+I142,initiation,"{""RCH3"": -1, ""PLIGH"": -1, ""CH4"": 1, ""PRLIGH2"": 1}","{""RCH3"": 1, ""PLIGH"": 1, ""CH4"": 0, ""PRLIGH2"": 0}",gas,2*10**8.5,43953,False
+I143,initiation,"{""PRKETM2"": -1, ""PLIGH"": -1, ""PKETM2"": 1, ""PRLIGH2"": 1}","{""PRKETM2"": 1, ""PLIGH"": 1, ""PKETM2"": 0, ""PRLIGH2"": 0}",solid,2*10**8,50232,False
+I144,initiation,"{""RKET"": -1, ""PLIGH"": -1, ""KET"": 1, ""PRLIGH2"": 1}","{""RKET"": 1, ""PLIGH"": 1, ""KET"": 0, ""PRLIGH2"": 0}",gas,2*10**8.5,50232,False
+I145,initiation,"{""PRADIO"": -1, ""PLIGH"": -1, ""PADIO"": 1, ""PRLIGH2"": 1}","{""PRADIO"": 1, ""PLIGH"": 1, ""PADIO"": 0, ""PRLIGH2"": 0}",solid,2*10**8,41860,False
+I146,initiation,"{""RC3H3O"": -1, ""PLIGH"": -1, ""C3H4O"": 1, ""PRLIGH2"": 1}","{""RC3H3O"": 1, ""PLIGH"": 1, ""C3H4O"": 0, ""PRLIGH2"": 0}",gas,2*10**8,79534,False
+I147,initiation,"{""RLIGB"": -1, ""PLIGH"": -1, ""LIG"": 1, ""PRLIGH2"": 1}","{""RLIGB"": 1, ""PLIGH"": 1, ""LIG"": 0, ""PRLIGH2"": 0}",gas,2*10**8,52325,False
+I148,initiation,"{""RLIGA"": -1, ""PLIGH"": -1, ""LIG"": 1, ""PRLIGH2"": 1}","{""RLIGA"": 1, ""PLIGH"": 1, ""LIG"": 0, ""PRLIGH2"": 0}",gas,2*10**8,52325,False
+I149,initiation,"{""PRADIOM2"": -1, ""PLIGH"": -1, ""PADIOM2"": 1, ""PRLIGH2"": 1}","{""PRADIOM2"": 1, ""PLIGH"": 1, ""PADIOM2"": 0, ""PRLIGH2"": 0}",solid,2*10**8.5,37674,False
+I150,initiation,"{""RMGUAI"": -1, ""PLIGH"": -1, ""MGUAI"": 1, ""PRLIGH2"": 1}","{""RMGUAI"": 1, ""PLIGH"": 1, ""MGUAI"": 0, ""PRLIGH2"": 0}",gas,2*10**8,50232,False
+I151,initiation,"{""OH"": -1, ""PLIGH"": -1, ""H2O"": 1, ""PRLIGH2"": 1}","{""OH"": 1, ""PLIGH"": 1, ""H2O"": 0, ""PRLIGH2"": 0}",solid,2*10**9.5,10465,False
+I152,initiation,"{""RCH3O"": -1, ""PLIGH"": -1, ""CH3OH"": 1, ""PRLIGH2"": 1}","{""RCH3O"": 1, ""PLIGH"": 1, ""CH3OH"": 0, ""PRLIGH2"": 0}",gas,2*10**8.5,28883,False
+I153,initiation,"{""RPHENOL"": -1, ""PLIGH"": -1, ""PHENOL"": 1, ""PRLIGH2"": 1}","{""RPHENOL"": 1, ""PLIGH"": 1, ""PHENOL"": 0, ""PRLIGH2"": 0}",gas,2*10**8.5,50232,False
+I154,initiation,"{""RADIO"": -1, ""PLIGH"": -1, ""ADIO"": 1, ""PRLIGH2"": 1}","{""RADIO"": 1, ""PLIGH"": 1, ""ADIO"": 0, ""PRLIGH2"": 0}",gas,2*10**8,50232,False
+I155,initiation,"{""RC3H5O2"": -1, ""PLIGM2"": -1, ""C3H6O2"": 1, ""PRLIGM2A"": 1}","{""RC3H5O2"": 1, ""PLIGM2"": 1, ""C3H6O2"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,66976,False
+I156,initiation,"{""PRFET3"": -1, ""PLIGM2"": -1, ""PFET3"": 1, ""PRLIGM2A"": 1}","{""PRFET3"": 1, ""PLIGM2"": 1, ""PFET3"": 0, ""PRLIGM2A"": 0}",solid,2*10**8,50232,False
+I157,initiation,"{""RC3H7O2"": -1, ""PLIGM2"": -1, ""C3H8O2"": 1, ""PRLIGM2A"": 1}","{""RC3H7O2"": 1, ""PLIGM2"": 1, ""C3H8O2"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,58604,False
+I158,initiation,"{""RADIOM2"": -1, ""PLIGM2"": -1, ""ADIOM2"": 1, ""PRLIGM2A"": 1}","{""RADIOM2"": 1, ""PLIGM2"": 1, ""ADIOM2"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,50232,False
+I159,initiation,"{""PRFET3M2"": -1, ""PLIGM2"": -1, ""PFET3M2"": 1, ""PRLIGM2A"": 1}","{""PRFET3M2"": 1, ""PLIGM2"": 1, ""PFET3M2"": 0, ""PRLIGM2A"": 0}",solid,2*10**8,50232,False
+I160,initiation,"{""PRLIGH"": -1, ""PLIGM2"": -1, ""PLIGH"": 1, ""PRLIGM2A"": 1}","{""PRLIGH"": 1, ""PLIGM2"": 1, ""PLIGH"": 0, ""PRLIGM2A"": 0}",solid,2*10**8.5,37674,False
+I161,initiation,"{""RLIGM2B"": -1, ""PLIGM2"": -1, ""LIGM2"": 1, ""PRLIGM2A"": 1}","{""RLIGM2B"": 1, ""PLIGM2"": 1, ""LIGM2"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,50232,False
+I162,initiation,"{""RLIGM2A"": -1, ""PLIGM2"": -1, ""LIGM2"": 1, ""PRLIGM2A"": 1}","{""RLIGM2A"": 1, ""PLIGM2"": 1, ""LIGM2"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,50232,False
+I163,initiation,"{""RCH3"": -1, ""PLIGM2"": -1, ""CH4"": 1, ""PRLIGM2A"": 1}","{""RCH3"": 1, ""PLIGM2"": 1, ""CH4"": 0, ""PRLIGM2A"": 0}",gas,2*10**8.5,43953,False
+I164,initiation,"{""PRKETM2"": -1, ""PLIGM2"": -1, ""PKETM2"": 1, ""PRLIGM2A"": 1}","{""PRKETM2"": 1, ""PLIGM2"": 1, ""PKETM2"": 0, ""PRLIGM2A"": 0}",solid,2*10**8,50232,False
+I165,initiation,"{""RKET"": -1, ""PLIGM2"": -1, ""KET"": 1, ""PRLIGM2A"": 1}","{""RKET"": 1, ""PLIGM2"": 1, ""KET"": 0, ""PRLIGM2A"": 0}",gas,2*10**8.5,50232,False
+I166,initiation,"{""PRADIO"": -1, ""PLIGM2"": -1, ""PADIO"": 1, ""PRLIGM2A"": 1}","{""PRADIO"": 1, ""PLIGM2"": 1, ""PADIO"": 0, ""PRLIGM2A"": 0}",solid,2*10**8,41860,False
+I167,initiation,"{""RC3H3O"": -1, ""PLIGM2"": -1, ""C3H4O"": 1, ""PRLIGM2A"": 1}","{""RC3H3O"": 1, ""PLIGM2"": 1, ""C3H4O"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,79534,False
+I168,initiation,"{""RLIGB"": -1, ""PLIGM2"": -1, ""LIG"": 1, ""PRLIGM2A"": 1}","{""RLIGB"": 1, ""PLIGM2"": 1, ""LIG"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,52325,False
+I169,initiation,"{""RLIGA"": -1, ""PLIGM2"": -1, ""LIG"": 1, ""PRLIGM2A"": 1}","{""RLIGA"": 1, ""PLIGM2"": 1, ""LIG"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,52325,False
+I170,initiation,"{""PRADIOM2"": -1, ""PLIGM2"": -1, ""PADIOM2"": 1, ""PRLIGM2A"": 1}","{""PRADIOM2"": 1, ""PLIGM2"": 1, ""PADIOM2"": 0, ""PRLIGM2A"": 0}",solid,2*10**8.5,37674,False
+I171,initiation,"{""RMGUAI"": -1, ""PLIGM2"": -1, ""MGUAI"": 1, ""PRLIGM2A"": 1}","{""RMGUAI"": 1, ""PLIGM2"": 1, ""MGUAI"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,50232,False
+I172,initiation,"{""OH"": -1, ""PLIGM2"": -1, ""H2O"": 1, ""PRLIGM2A"": 1}","{""OH"": 1, ""PLIGM2"": 1, ""H2O"": 0, ""PRLIGM2A"": 0}",solid,2*10**9.5,10465,False
+I173,initiation,"{""RCH3O"": -1, ""PLIGM2"": -1, ""CH3OH"": 1, ""PRLIGM2A"": 1}","{""RCH3O"": 1, ""PLIGM2"": 1, ""CH3OH"": 0, ""PRLIGM2A"": 0}",gas,2*10**8.5,28883,False
+I174,initiation,"{""RPHENOL"": -1, ""PLIGM2"": -1, ""PHENOL"": 1, ""PRLIGM2A"": 1}","{""RPHENOL"": 1, ""PLIGM2"": 1, ""PHENOL"": 0, ""PRLIGM2A"": 0}",gas,2*10**8.5,50232,False
+I175,initiation,"{""RADIO"": -1, ""PLIGM2"": -1, ""ADIO"": 1, ""PRLIGM2A"": 1}","{""RADIO"": 1, ""PLIGM2"": 1, ""ADIO"": 0, ""PRLIGM2A"": 0}",gas,2*10**8,50232,False
+I176,initiation,"{""RC3H5O2"": -1, ""LIGM2"": -1, ""C3H6O2"": 1, ""RLIGM2A"": 1}","{""RC3H5O2"": 1, ""LIGM2"": 1, ""C3H6O2"": 0, ""RLIGM2A"": 0}",gas,1*10**8,66976,False
+I177,initiation,"{""PRFET3"": -1, ""LIGM2"": -1, ""PFET3"": 1, ""RLIGM2A"": 1}","{""PRFET3"": 1, ""LIGM2"": 1, ""PFET3"": 0, ""RLIGM2A"": 0}",gas,1*10**8,50232,False
+I178,initiation,"{""RC3H7O2"": -1, ""LIGM2"": -1, ""C3H8O2"": 1, ""RLIGM2A"": 1}","{""RC3H7O2"": 1, ""LIGM2"": 1, ""C3H8O2"": 0, ""RLIGM2A"": 0}",gas,1*10**8,58604,False
+I179,initiation,"{""RADIOM2"": -1, ""LIGM2"": -1, ""ADIOM2"": 1, ""RLIGM2A"": 1}","{""RADIOM2"": 1, ""LIGM2"": 1, ""ADIOM2"": 0, ""RLIGM2A"": 0}",gas,1*10**8,50232,False
+I180,initiation,"{""PRFET3M2"": -1, ""LIGM2"": -1, ""PFET3M2"": 1, ""RLIGM2A"": 1}","{""PRFET3M2"": 1, ""LIGM2"": 1, ""PFET3M2"": 0, ""RLIGM2A"": 0}",gas,1*10**8,50232,False
+I181,initiation,"{""PRLIGH"": -1, ""LIGM2"": -1, ""PLIGH"": 1, ""RLIGM2A"": 1}","{""PRLIGH"": 1, ""LIGM2"": 1, ""PLIGH"": 0, ""RLIGM2A"": 0}",gas,1*10**8.5,37674,False
+I182,initiation,"{""RLIGM2B"": -1, ""LIGM2"": 1, ""RLIGM2A"": 1}","{""RLIGM2B"": 1, ""LIGM2"": 0, ""RLIGM2A"": 0}",gas,1*10**8,50232,False
+I183,initiation,"{""RLIGM2A"": 1, ""LIGM2"": 1}","{""RLIGM2A"": 1, ""LIGM2"": 1}",gas,1*10**8,50232,False
+I184,initiation,"{""RCH3"": -1, ""LIGM2"": -1, ""CH4"": 1, ""RLIGM2A"": 1}","{""RCH3"": 1, ""LIGM2"": 1, ""CH4"": 0, ""RLIGM2A"": 0}",gas,1*10**8.5,43953,False
+I185,initiation,"{""PRKETM2"": -1, ""LIGM2"": -1, ""PKETM2"": 1, ""RLIGM2A"": 1}","{""PRKETM2"": 1, ""LIGM2"": 1, ""PKETM2"": 0, ""RLIGM2A"": 0}",gas,1*10**8,50232,False
+I186,initiation,"{""RKET"": -1, ""LIGM2"": -1, ""KET"": 1, ""RLIGM2A"": 1}","{""RKET"": 1, ""LIGM2"": 1, ""KET"": 0, ""RLIGM2A"": 0}",gas,1*10**8.5,50232,False
+I187,initiation,"{""PRADIO"": -1, ""LIGM2"": -1, ""PADIO"": 1, ""RLIGM2A"": 1}","{""PRADIO"": 1, ""LIGM2"": 1, ""PADIO"": 0, ""RLIGM2A"": 0}",gas,1*10**8,41860,False
+I188,initiation,"{""RC3H3O"": -1, ""LIGM2"": -1, ""C3H4O"": 1, ""RLIGM2A"": 1}","{""RC3H3O"": 1, ""LIGM2"": 1, ""C3H4O"": 0, ""RLIGM2A"": 0}",gas,1*10**8,79534,False
+I189,initiation,"{""RLIGB"": -1, ""LIGM2"": -1, ""LIG"": 1, ""RLIGM2A"": 1}","{""RLIGB"": 1, ""LIGM2"": 1, ""LIG"": 0, ""RLIGM2A"": 0}",gas,1*10**8,52325,False
+I190,initiation,"{""RLIGA"": -1, ""LIGM2"": -1, ""LIG"": 1, ""RLIGM2A"": 1}","{""RLIGA"": 1, ""LIGM2"": 1, ""LIG"": 0, ""RLIGM2A"": 0}",gas,1*10**8,52325,False
+I191,initiation,"{""PRADIOM2"": -1, ""LIGM2"": -1, ""PADIOM2"": 1, ""RLIGM2A"": 1}","{""PRADIOM2"": 1, ""LIGM2"": 1, ""PADIOM2"": 0, ""RLIGM2A"": 0}",gas,1*10**8.5,37674,False
+I192,initiation,"{""RMGUAI"": -1, ""LIGM2"": -1, ""MGUAI"": 1, ""RLIGM2A"": 1}","{""RMGUAI"": 1, ""LIGM2"": 1, ""MGUAI"": 0, ""RLIGM2A"": 0}",gas,1*10**8,50232,False
+I193,initiation,"{""OH"": -1, ""LIGM2"": -1, ""H2O"": 1, ""RLIGM2A"": 1}","{""OH"": 1, ""LIGM2"": 1, ""H2O"": 0, ""RLIGM2A"": 0}",gas,1*10**9.5,10465,False
+I194,initiation,"{""RCH3O"": -1, ""LIGM2"": -1, ""CH3OH"": 1, ""RLIGM2A"": 1}","{""RCH3O"": 1, ""LIGM2"": 1, ""CH3OH"": 0, ""RLIGM2A"": 0}",gas,1*10**8.5,28883,False
+I195,initiation,"{""RPHENOL"": -1, ""LIGM2"": -1, ""PHENOL"": 1, ""RLIGM2A"": 1}","{""RPHENOL"": 1, ""LIGM2"": 1, ""PHENOL"": 0, ""RLIGM2A"": 0}",gas,1*10**8.5,50232,False
+I196,initiation,"{""RADIO"": -1, ""LIGM2"": -1, ""ADIO"": 1, ""RLIGM2A"": 1}","{""RADIO"": 1, ""LIGM2"": 1, ""ADIO"": 0, ""RLIGM2A"": 0}",gas,1*10**8,50232,False
+I197,initiation,"{""RC3H5O2"": -1, ""LIGM2"": -1, ""C3H6O2"": 1, ""RLIGM2B"": 1}","{""RC3H5O2"": 1, ""LIGM2"": 1, ""C3H6O2"": 0, ""RLIGM2B"": 0}",gas,1*10**8,66976,False
+I198,initiation,"{""PRFET3"": -1, ""LIGM2"": -1, ""PFET3"": 1, ""RLIGM2B"": 1}","{""PRFET3"": 1, ""LIGM2"": 1, ""PFET3"": 0, ""RLIGM2B"": 0}",gas,1*10**8,50232,False
+I199,initiation,"{""RC3H7O2"": -1, ""LIGM2"": -1, ""C3H8O2"": 1, ""RLIGM2B"": 1}","{""RC3H7O2"": 1, ""LIGM2"": 1, ""C3H8O2"": 0, ""RLIGM2B"": 0}",gas,1*10**8,58604,False
+I200,initiation,"{""RADIOM2"": -1, ""LIGM2"": -1, ""ADIOM2"": 1, ""RLIGM2B"": 1}","{""RADIOM2"": 1, ""LIGM2"": 1, ""ADIOM2"": 0, ""RLIGM2B"": 0}",gas,1*10**8,50232,False
+I201,initiation,"{""PRFET3M2"": -1, ""LIGM2"": -1, ""PFET3M2"": 1, ""RLIGM2B"": 1}","{""PRFET3M2"": 1, ""LIGM2"": 1, ""PFET3M2"": 0, ""RLIGM2B"": 0}",gas,1*10**8,50232,False
+I202,initiation,"{""PRLIGH"": -1, ""LIGM2"": -1, ""PLIGH"": 1, ""RLIGM2B"": 1}","{""PRLIGH"": 1, ""LIGM2"": 1, ""PLIGH"": 1, ""RLIGM2B"": 1}",gas,1*10**8.5,37674,False
+I203,initiation,"{""RLIGM2B"": 1, ""LIGM2"": 1}","{""RLIGM2B"": 1, ""LIGM2"": 1}",gas,1*10**8,50232,False
+I204,initiation,"{""RLIGM2A"": -1, ""LIGM2"": 1, ""RLIGM2B"": 1}","{""RLIGM2A"": 1, ""LIGM2"": 0, ""RLIGM2B"": 0}",gas,1*10**8,50232,False
+I205,initiation,"{""RCH3"": -1, ""LIGM2"": -1, ""CH4"": 1, ""RLIGM2B"": 1}","{""RCH3"": 1, ""LIGM2"": 1, ""CH4"": 0, ""RLIGM2B"": 0}",gas,1*10**8.5,43953,False
+I206,initiation,"{""PRKETM2"": -1, ""LIGM2"": -1, ""PKETM2"": 1, ""RLIGM2B"": 1}","{""PRKETM2"": 1, ""LIGM2"": 1, ""PKETM2"": 0, ""RLIGM2B"": 0}",gas,1*10**8,50232,False
+I207,initiation,"{""RKET"": -1, ""LIGM2"": -1, ""KET"": 1, ""RLIGM2B"": 1}","{""RKET"": 1, ""LIGM2"": 1, ""KET"": 0, ""RLIGM2B"": 0}",gas,1*10**8.5,50232,False
+I208,initiation,"{""PRADIO"": -1, ""LIGM2"": -1, ""PADIO"": 1, ""RLIGM2B"": 1}","{""PRADIO"": 1, ""LIGM2"": 1, ""PADIO"": 0, ""RLIGM2B"": 0}",gas,1*10**8,41860,False
+I209,initiation,"{""RC3H3O"": -1, ""LIGM2"": -1, ""C3H4O"": 1, ""RLIGM2B"": 1}","{""RC3H3O"": 1, ""LIGM2"": 1, ""C3H4O"": 0, ""RLIGM2B"": 0}",gas,1*10**8,79534,False
+I210,initiation,"{""RLIGB"": -1, ""LIGM2"": -1, ""LIG"": 1, ""RLIGM2B"": 1}","{""RLIGB"": 1, ""LIGM2"": 1, ""LIG"": 0, ""RLIGM2B"": 0}",gas,1*10**8,52325,False
+I211,initiation,"{""RLIGA"": -1, ""LIGM2"": -1, ""LIG"": 1, ""RLIGM2B"": 1}","{""RLIGA"": 1, ""LIGM2"": 1, ""LIG"": 0, ""RLIGM2B"": 0}",gas,1*10**8,52325,False
+I212,initiation,"{""PRADIOM2"": -1, ""LIGM2"": -1, ""PADIOM2"": 1, ""RLIGM2B"": 1}","{""PRADIOM2"": 1, ""LIGM2"": 0, ""PADIOM2"": 0, ""RLIGM2B"": 1}",gas,1*10**8.5,37674,False
+I213,initiation,"{""RMGUAI"": -1, ""LIGM2"": -1, ""MGUAI"": 1, ""RLIGM2B"": 1}","{""RMGUAI"": 1, ""LIGM2"": 1, ""MGUAI"": 0, ""RLIGM2B"": 0}",gas,1*10**8,50232,False
+I214,initiation,"{""OH"": -1, ""LIGM2"": -1, ""H2O"": 1, ""RLIGM2B"": 1}","{""OH"": 1, ""LIGM2"": 1, ""H2O"": 0, ""RLIGM2B"": 0}",gas,1*10**9.5,10465,False
+I215,initiation,"{""RCH3O"": -1, ""LIGM2"": -1, ""CH3OH"": 1, ""RLIGM2B"": 1}","{""RCH3O"": 1, ""LIGM2"": 1, ""CH3OH"": 0, ""RLIGM2B"": 0}",gas,1*10**8.5,28883,False
+I216,initiation,"{""RPHENOL"": -1, ""LIGM2"": -1, ""PHENOL"": 1, ""RLIGM2B"": 1}","{""RPHENOL"": 1, ""LIGM2"": 1, ""PHENOL"": 0, ""RLIGM2B"": 0}",gas,1*10**8.5,50232,False
+I217,initiation,"{""RADIO"": -1, ""LIGM2"": -1, ""ADIO"": 1, ""RLIGM2B"": 1}","{""RADIO"": 1, ""LIGM2"": 1, ""ADIO"": 0, ""RLIGM2B"": 0}",gas,1*10**8,50232,False
+P218,propagation,"{""RC3H5O2"": -1, ""PFET3M2"": -1, ""C3H6O2"": 1, ""PRFET3M2"": 1}","{""RC3H5O2"": 1, ""PFET3M2"": 1, ""C3H6O2"": 0, ""PRFET3M2"": 0}",gas,2*10**8,66976,False
+P219,propagation,"{""PRFET3"": -1, ""PFET3M2"": -1, ""PFET3"": 1, ""PRFET3M2"": 1}","{""PRFET3"": 1, ""PFET3M2"": 1, ""PFET3"": 0, ""PRFET3M2"": 0}",solid,2*10**8,50232,False
+P220,propagation,"{""RC3H7O2"": -1, ""PFET3M2"": -1, ""C3H8O2"": 1, ""PRFET3M2"": 1}","{""RC3H7O2"": 1, ""PFET3M2"": 1, ""C3H8O2"": 0, ""PRFET3M2"": 0}",gas,2*10**8,58604,False
+I221,initiation,"{""RADIOM2"": -1, ""PFET3M2"": -1, ""ADIOM2"": 1, ""PRFET3M2"": 1}","{""RADIOM2"": 1, ""PFET3M2"": 1, ""ADIOM2"": 0, ""PRFET3M2"": 0}",gas,2*10**8,50232,False
+P222,propagation,"{""PRFET3M2"": 1, ""PFET3M2"": 1}","{""PRFET3M2"": 1, ""PFET3M2"": 1}",solid,2*10**8,50232,False
+I223,initiation,"{""PRLIGH"": -1, ""PFET3M2"": -1, ""PLIGH"": 1, ""PRFET3M2"": 1}","{""PRLIGH"": 1, ""PFET3M2"": 1, ""PLIGH"": 0, ""PRFET3M2"": 0}",solid,2*10**8.5,37674,False
+I224,initiation,"{""RLIGM2B"": -1, ""PFET3M2"": -1, ""LIGM2"": 1, ""PRFET3M2"": 1}","{""RLIGM2B"": 1, ""PFET3M2"": 1, ""LIGM2"": 0, ""PRFET3M2"": 0}",gas,2*10**8,50232,False
+I225,initiation,"{""RLIGM2A"": -1, ""PFET3M2"": -1, ""LIGM2"": 1, ""PRFET3M2"": 1}","{""RLIGM2A"": 1, ""PFET3M2"": 1, ""LIGM2"": 0, ""PRFET3M2"": 0}",gas,2*10**8,50232,False
+P226,propagation,"{""RCH3"": -1, ""PFET3M2"": -1, ""CH4"": 1, ""PRFET3M2"": 1}","{""RCH3"": 1, ""PFET3M2"": 1, ""CH4"": 0, ""PRFET3M2"": 0}",gas,2*10**8.5,43953,False
+P227,propagation,"{""PRKETM2"": -1, ""PFET3M2"": -1, ""PKETM2"": 1, ""PRFET3M2"": 1}","{""PRKETM2"": 1, ""PFET3M2"": 1, ""PKETM2"": 0, ""PRFET3M2"": 0}",solid,2*10**8,50232,False
+P228,propagation,"{""RKET"": -1, ""PFET3M2"": -1, ""KET"": 1, ""PRFET3M2"": 1}","{""RKET"": 1, ""PFET3M2"": 1, ""KET"": 0, ""PRFET3M2"": 0}",gas,2*10**8.5,50232,False
+I229,initiation,"{""PRADIO"": -1, ""PFET3M2"": -1, ""PADIO"": 1, ""PRFET3M2"": 1}","{""PRADIO"": 1, ""PFET3M2"": 1, ""PADIO"": 0, ""PRFET3M2"": 0}",solid,2*10**8,41860,False
+P230,propagation,"{""RC3H3O"": -1, ""PFET3M2"": -1, ""C3H4O"": 1, ""PRFET3M2"": 1}","{""RC3H3O"": 1, ""PFET3M2"": 1, ""C3H4O"": 0, ""PRFET3M2"": 0}",gas,2*10**8,79534,False
+I231,initiation,"{""RLIGB"": -1, ""PFET3M2"": -1, ""LIG"": 1, ""PRFET3M2"": 1}","{""RLIGB"": 1, ""PFET3M2"": 1, ""LIG"": 0, ""PRFET3M2"": 0}",gas,2*10**8,52325,False
+I232,initiation,"{""RLIGA"": -1, ""PFET3M2"": -1, ""LIG"": 1, ""PRFET3M2"": 1}","{""RLIGA"": 1, ""PFET3M2"": 1, ""LIG"": 0, ""PRFET3M2"": 0}",gas,2*10**8,52325,False
+I233,initiation,"{""PRADIOM2"": -1, ""PFET3M2"": -1, ""PADIOM2"": 1, ""PRFET3M2"": 1}","{""PRADIOM2"": 1, ""PFET3M2"": 1, ""PADIOM2"": 0, ""PRFET3M2"": 0}",solid,2*10**8.5,37674,False
+I234,initiation,"{""RMGUAI"": -1, ""PFET3M2"": -1, ""MGUAI"": 1, ""PRFET3M2"": 1}","{""RMGUAI"": 1, ""PFET3M2"": 1, ""MGUAI"": 0, ""PRFET3M2"": 0}",gas,2*10**8,50232,False
+P235,propagation,"{""OH"": -1, ""PFET3M2"": -1, ""H2O"": 1, ""PRFET3M2"": 1}","{""OH"": 1, ""PFET3M2"": 1, ""H2O"": 0, ""PRFET3M2"": 0}",solid,2*10**9.5,10465,False
+P236,propagation,"{""RCH3O"": -1, ""PFET3M2"": -1, ""CH3OH"": 1, ""PRFET3M2"": 1}","{""RCH3O"": 1, ""PFET3M2"": 1, ""CH3OH"": 0, ""PRFET3M2"": 0}",gas,2*10**8.5,28883,False
+P237,propagation,"{""RPHENOL"": -1, ""PFET3M2"": -1, ""PHENOL"": 1, ""PRFET3M2"": 1}","{""RPHENOL"": 1, ""PFET3M2"": 1, ""PHENOL"": 0, ""PRFET3M2"": 0}",gas,2*10**8.5,50232,False
+I238,initiation,"{""RADIO"": -1, ""PFET3M2"": -1, ""ADIO"": 1, ""PRFET3M2"": 1}","{""RADIO"": 1, ""PFET3M2"": 1, ""ADIO"": 0, ""PRFET3M2"": 0}",gas,2*10**8,50232,False
+I239,initiation,"{""RC3H5O2"": -1, ""ADIOM2"": -1, ""C3H6O2"": 1, ""RADIOM2"": 1}","{""RC3H5O2"": 1, ""ADIOM2"": 1, ""C3H6O2"": 0, ""RADIOM2"": 0}",gas,1*10**8,66976,False
+I240,initiation,"{""PRFET3"": -1, ""ADIOM2"": -1, ""PFET3"": 1, ""RADIOM2"": 1}","{""PRFET3"": 1, ""ADIOM2"": 1, ""PFET3"": 0, ""RADIOM2"": 0}",gas,1*10**8,50232,False
+I241,initiation,"{""RC3H7O2"": -1, ""ADIOM2"": -1, ""C3H8O2"": 1, ""RADIOM2"": 1}","{""RC3H7O2"": 1, ""ADIOM2"": 1, ""C3H8O2"": 0, ""RADIOM2"": 0}",gas,1*10**8,58604,False
+I242,initiation,"{""RADIOM2"": 1, ""ADIOM2"": 1}","{""RADIOM2"": 1, ""ADIOM2"": 1}",gas,1*10**8,50232,False
+I243,initiation,"{""PRFET3M2"": -1, ""ADIOM2"": -1, ""PFET3M2"": 1, ""RADIOM2"": 1}","{""PRFET3M2"": 1, ""ADIOM2"": 1, ""PFET3M2"": 0, ""RADIOM2"": 0}",gas,1*10**8,50232,False
+I244,initiation,"{""PRLIGH"": -1, ""ADIOM2"": -1, ""PLIGH"": 1, ""RADIOM2"": 1}","{""PRLIGH"": 1, ""ADIOM2"": 1, ""PLIGH"": 0, ""RADIOM2"": 0}",gas,1*10**8.5,37674,False
+I245,initiation,"{""RLIGM2B"": -1, ""ADIOM2"": -1, ""LIGM2"": 1, ""RADIOM2"": 1}","{""RLIGM2B"": 1, ""ADIOM2"": 1, ""LIGM2"": 0, ""RADIOM2"": 0}",gas,1*10**8,50232,False
+I246,initiation,"{""RLIGM2A"": -1, ""ADIOM2"": -1, ""LIGM2"": 1, ""RADIOM2"": 1}","{""RLIGM2A"": 1, ""ADIOM2"": 1, ""LIGM2"": 0, ""RADIOM2"": 0}",gas,1*10**8,50232,False
+I247,initiation,"{""RCH3"": -1, ""ADIOM2"": -1, ""CH4"": 1, ""RADIOM2"": 1}","{""RCH3"": 1, ""ADIOM2"": 1, ""CH4"": 0, ""RADIOM2"": 0}",gas,1*10**8.5,43953,False
+I248,initiation,"{""PRKETM2"": -1, ""ADIOM2"": -1, ""PKETM2"": 1, ""RADIOM2"": 1}","{""PRKETM2"": 1, ""ADIOM2"": 1, ""PKETM2"": 0, ""RADIOM2"": 0}",gas,1*10**8,50232,False
+I249,initiation,"{""RKET"": -1, ""ADIOM2"": -1, ""KET"": 1, ""RADIOM2"": 1}","{""RKET"": 1, ""ADIOM2"": 1, ""KET"": 0, ""RADIOM2"": 0}",gas,1*10**8.5,50232,False
+I250,initiation,"{""PRADIO"": -1, ""ADIOM2"": -1, ""PADIO"": 1, ""RADIOM2"": 1}","{""PRADIO"": 1, ""ADIOM2"": 1, ""PADIO"": 0, ""RADIOM2"": 0}",gas,1*10**8,41860,False
+I251,initiation,"{""RC3H3O"": -1, ""ADIOM2"": -1, ""C3H4O"": 1, ""RADIOM2"": 1}","{""RC3H3O"": 1, ""ADIOM2"": 1, ""C3H4O"": 0, ""RADIOM2"": 0}",gas,1*10**8,79534,False
+I252,initiation,"{""RLIGB"": -1, ""ADIOM2"": -1, ""LIG"": 1, ""RADIOM2"": 1}","{""RLIGB"": 1, ""ADIOM2"": 1, ""LIG"": 0, ""RADIOM2"": 0}",gas,1*10**8,52325,False
+I253,initiation,"{""RLIGA"": -1, ""ADIOM2"": -1, ""LIG"": 1, ""RADIOM2"": 1}","{""RLIGA"": 1, ""ADIOM2"": 1, ""LIG"": 0, ""RADIOM2"": 0}",gas,1*10**8,52325,False
+I254,initiation,"{""PRADIOM2"": -1, ""ADIOM2"": -1, ""PADIOM2"": 1, ""RADIOM2"": 1}","{""PRADIOM2"": 1, ""ADIOM2"": 1, ""PADIOM2"": 0, ""RADIOM2"": 0}",gas,1*10**8.5,37674,False
+I255,initiation,"{""RMGUAI"": -1, ""ADIOM2"": -1, ""MGUAI"": 1, ""RADIOM2"": 1}","{""RMGUAI"": 1, ""ADIOM2"": 1, ""MGUAI"": 0, ""RADIOM2"": 0}",gas,1*10**8,50232,False
+I256,initiation,"{""OH"": -1, ""ADIOM2"": -1, ""H2O"": 1, ""RADIOM2"": 1}","{""OH"": 1, ""ADIOM2"": 1, ""H2O"": 0, ""RADIOM2"": 0}",gas,1*10**9.5,10465,False
+I257,initiation,"{""RCH3O"": -1, ""ADIOM2"": -1, ""CH3OH"": 1, ""RADIOM2"": 1}","{""RCH3O"": 1, ""ADIOM2"": 1, ""CH3OH"": 0, ""RADIOM2"": 0}",gas,1*10**8.5,28883,False
+I258,initiation,"{""RPHENOL"": -1, ""ADIOM2"": -1, ""PHENOL"": 1, ""RADIOM2"": 1}","{""RPHENOL"": 1, ""ADIOM2"": 1, ""PHENOL"": 0, ""RADIOM2"": 0}",gas,1*10**8.5,50232,False
+I259,initiation,"{""RADIO"": -1, ""ADIOM2"": -1, ""ADIO"": 1, ""RADIOM2"": 1}","{""RADIO"": 1, ""ADIOM2"": 1, ""ADIO"": 0, ""RADIOM2"": 0}",gas,1*10**8,50232,False
+T260,termination,"{""RC3H5O2"": -1, ""KETM2"": -1, ""C3H6O2"": 1, ""RKETM2"": 1}","{""RC3H5O2"": 1, ""KETM2"": 1, ""C3H6O2"": 0, ""RKETM2"": 0}",gas,1*10**8,66976,False
+P261,propagation,"{""PRFET3"": -1, ""KETM2"": -1, ""PFET3"": 1, ""RKETM2"": 1}","{""PRFET3"": 1, ""KETM2"": 1, ""PFET3"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+T262,termination,"{""RC3H7O2"": -1, ""KETM2"": -1, ""C3H8O2"": 1, ""RKETM2"": 1}","{""RC3H7O2"": 1, ""KETM2"": 1, ""C3H8O2"": 0, ""RKETM2"": 0}",gas,1*10**8,58604,False
+I263,initiation,"{""RADIOM2"": -1, ""KETM2"": -1, ""ADIOM2"": 1, ""RKETM2"": 1}","{""RADIOM2"": 1, ""KETM2"": 1, ""ADIOM2"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+P264,propagation,"{""PRFET3M2"": -1, ""KETM2"": -1, ""PFET3M2"": 1, ""RKETM2"": 1}","{""PRFET3M2"": 1, ""KETM2"": 1, ""PFET3M2"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+I265,initiation,"{""PRLIGH"": -1, ""KETM2"": -1, ""PLIGH"": 1, ""RKETM2"": 1}","{""PRLIGH"": 1, ""KETM2"": 1, ""PLIGH"": 0, ""RKETM2"": 0}",gas,1*10**8.5,37674,False
+I266,initiation,"{""RLIGM2B"": -1, ""KETM2"": -1, ""LIGM2"": 1, ""RKETM2"": 1}","{""RLIGM2B"": 1, ""KETM2"": 1, ""LIGM2"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+I267,initiation,"{""RLIGM2A"": -1, ""KETM2"": -1, ""LIGM2"": 1, ""RKETM2"": 1}","{""RLIGM2A"": 1, ""KETM2"": 1, ""LIGM2"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+T268,termination,"{""RCH3"": -1, ""KETM2"": -1, ""CH4"": 1, ""RKETM2"": 1}","{""RCH3"": 1, ""KETM2"": 1, ""CH4"": 0, ""RKETM2"": 0}",gas,1*10**8.5,43953,False
+P269,propagation,"{""PRKETM2"": -1, ""KETM2"": -1, ""PKETM2"": 1, ""RKETM2"": 1}","{""PRKETM2"": 1, ""KETM2"": 1, ""PKETM2"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+T270,termination,"{""RKET"": -1, ""KETM2"": -1, ""KET"": 1, ""RKETM2"": 1}","{""RKET"": 1, ""KETM2"": 1, ""KET"": 0, ""RKETM2"": 0}",gas,1*10**8.5,50232,False
+I271,initiation,"{""PRADIO"": -1, ""KETM2"": -1, ""PADIO"": 1, ""RKETM2"": 1}","{""PRADIO"": 1, ""KETM2"": 1, ""PADIO"": 0, ""RKETM2"": 0}",gas,1*10**8,41860,False
+T272,termination,"{""RC3H3O"": -1, ""KETM2"": -1, ""C3H4O"": 1, ""RKETM2"": 1}","{""RC3H3O"": 1, ""KETM2"": 1, ""C3H4O"": 0, ""RKETM2"": 0}",gas,1*10**8,79534,False
+I273,initiation,"{""RLIGB"": -1, ""KETM2"": -1, ""LIG"": 1, ""RKETM2"": 1}","{""RLIGB"": 1, ""KETM2"": 1, ""LIG"": 0, ""RKETM2"": 0}",gas,1*10**8,52325,False
+I274,initiation,"{""RLIGA"": -1, ""KETM2"": -1, ""LIG"": 1, ""RKETM2"": 1}","{""RLIGA"": 1, ""KETM2"": 1, ""LIG"": 0, ""RKETM2"": 0}",gas,1*10**8,52325,False
+I275,initiation,"{""PRADIOM2"": -1, ""KETM2"": -1, ""PADIOM2"": 1, ""RKETM2"": 1}","{""PRADIOM2"": 1, ""KETM2"": 1, ""PADIOM2"": 0, ""RKETM2"": 0}",gas,1*10**8.5,37674,False
+I276,initiation,"{""RMGUAI"": -1, ""KETM2"": -1, ""MGUAI"": 1, ""RKETM2"": 1}","{""RMGUAI"": 1, ""KETM2"": 1, ""MGUAI"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+T277,termination,"{""OH"": -1, ""KETM2"": -1, ""H2O"": 1, ""RKETM2"": 1}","{""OH"": 1, ""KETM2"": 1, ""H2O"": 0, ""RKETM2"": 0}",gas,1*10**9.5,10465,False
+T278,termination,"{""RCH3O"": -1, ""KETM2"": -1, ""CH3OH"": 1, ""RKETM2"": 1}","{""RCH3O"": 1, ""KETM2"": 1, ""CH3OH"": 0, ""RKETM2"": 0}",gas,1*10**8.5,28883,False
+P279,propagation,"{""RPHENOL"": -1, ""KETM2"": -1, ""PHENOL"": 1, ""RKETM2"": 1}","{""RPHENOL"": 1, ""KETM2"": 1, ""PHENOL"": 0, ""RKETM2"": 0}",gas,1*10**8.5,50232,False
+I280,initiation,"{""RADIO"": -1, ""KETM2"": -1, ""ADIO"": 1, ""RKETM2"": 1}","{""RADIO"": 1, ""KETM2"": 1, ""ADIO"": 0, ""RKETM2"": 0}",gas,1*10**8,50232,False
+U281,unknown,"{""RC3H5O2"": -1, ""C10H2"": 0, ""C3H6O2"": 1, ""CHAR"": 0}","{""RC3H5O2"": 1, ""C10H2"": 0, ""C3H6O2"": 0, ""CHAR"": 0}",gas,1*10**8,92092,False
+P282,propagation,"{""PRFET3"": -1, ""C10H2"": 0, ""PFET3"": 1, ""CHAR"": 0}","{""PRFET3"": 1, ""C10H2"": 0, ""PFET3"": 0, ""CHAR"": 0}",solid,1*10**8,75348,False
+U283,unknown,"{""RC3H7O2"": -1, ""C10H2"": 0, ""C3H8O2"": 1, ""CHAR"": 0}","{""RC3H7O2"": 1, ""C10H2"": 0, ""C3H8O2"": 0, ""CHAR"": 0}",gas,1*10**8,83720,False
+I284,initiation,"{""RADIOM2"": -1, ""C10H2"": 0, ""ADIOM2"": 1, ""CHAR"": 0}","{""RADIOM2"": 1, ""C10H2"": 0, ""ADIOM2"": 0, ""CHAR"": 0}",gas,1*10**8,75348,False
+P285,propagation,"{""PRFET3M2"": -1, ""C10H2"": 0, ""PFET3M2"": 1, ""CHAR"": 0}","{""PRFET3M2"": 1, ""C10H2"": 0, ""PFET3M2"": 0, ""CHAR"": 0}",solid,1*10**8,75348,False
+I286,initiation,"{""PRLIGH"": -1, ""C10H2"": 0, ""PLIGH"": 1, ""CHAR"": 0}","{""PRLIGH"": 1, ""C10H2"": 0, ""PLIGH"": 0, ""CHAR"": 0}",solid,1*10**8.5,62790,False
+I287,initiation,"{""RLIGM2B"": -1, ""C10H2"": 0, ""LIGM2"": 1, ""CHAR"": 0}","{""RLIGM2B"": 1, ""C10H2"": 0, ""LIGM2"": 0, ""CHAR"": 0}",gas,1*10**8,75348,False
+I288,initiation,"{""RLIGM2A"": -1, ""C10H2"": 0, ""LIGM2"": 1, ""CHAR"": 0}","{""RLIGM2A"": 1, ""C10H2"": 0, ""LIGM2"": 0, ""CHAR"": 0}",gas,1*10**8,75348,False
+U289,unknown,"{""RCH3"": -1, ""C10H2"": 0, ""CH4"": 1, ""CHAR"": 0}","{""RCH3"": 1, ""C10H2"": 0, ""CH4"": 0, ""CHAR"": 0}",gas,1*10**8.5,69069,False
+P290,propagation,"{""PRKETM2"": -1, ""C10H2"": 0, ""PKETM2"": 1, ""CHAR"": 0}","{""PRKETM2"": 1, ""C10H2"": 0, ""PKETM2"": 0, ""CHAR"": 0}",solid,1*10**8,75348,False
+T291,termination,"{""RKET"": -1, ""C10H2"": 0, ""KET"": 1, ""CHAR"": 0}","{""RKET"": 1, ""C10H2"": 0, ""KET"": 0, ""CHAR"": 0}",gas,1*10**8.5,75348,False
+I292,initiation,"{""PRADIO"": -1, ""C10H2"": 0, ""PADIO"": 1, ""CHAR"": 0}","{""PRADIO"": 1, ""C10H2"": 0, ""PADIO"": 0, ""CHAR"": 0}",solid,1*10**8,66976,False
+U293,unknown,"{""RC3H3O"": -1, ""C10H2"": 0, ""C3H4O"": 1, ""CHAR"": 0}","{""RC3H3O"": 1, ""C10H2"": 0, ""C3H4O"": 0, ""CHAR"": 0}",gas,1*10**8,104650,False
+I294,initiation,"{""RLIGB"": -1, ""C10H2"": 0, ""LIG"": 1, ""CHAR"": 0}","{""RLIGB"": 1, ""C10H2"": 0, ""LIG"": 0, ""CHAR"": 0}",gas,1*10**8,77441,False
+I295,initiation,"{""RLIGA"": -1, ""C10H2"": 0, ""LIG"": 1, ""CHAR"": 0}","{""RLIGA"": 1, ""C10H2"": 0, ""LIG"": 0, ""CHAR"": 0}",gas,1*10**8,77441,False
+I296,initiation,"{""PRADIOM2"": -1, ""C10H2"": 0, ""PADIOM2"": 1, ""CHAR"": 0}","{""PRADIOM2"": 1, ""C10H2"": 0, ""PADIOM2"": 0, ""CHAR"": 0}",solid,1*10**8.5,62790,False
+I297,initiation,"{""RMGUAI"": -1, ""C10H2"": 0, ""MGUAI"": 1, ""CHAR"": 0}","{""RMGUAI"": 1, ""C10H2"": 0, ""MGUAI"": 0, ""CHAR"": 0}",gas,1*10**8,75348,False
+U298,unknown,"{""OH"": -1, ""C10H2"": 0, ""H2O"": 1, ""CHAR"": 0}","{""OH"": 1, ""C10H2"": 0, ""H2O"": 0, ""CHAR"": 0}",solid,1*10**9.5,35581,False
+U299,unknown,"{""RCH3O"": -1, ""C10H2"": 0, ""CH3OH"": 1, ""CHAR"": 0}","{""RCH3O"": 1, ""C10H2"": 0, ""CH3OH"": 0, ""CHAR"": 0}",gas,1*10**8.5,53999,False
+P300,propagation,"{""RPHENOL"": -1, ""C10H2"": 0, ""PHENOL"": 1, ""CHAR"": 0}","{""RPHENOL"": 1, ""C10H2"": 0, ""PHENOL"": 0, ""CHAR"": 0}",gas,1*10**8.5,75348,False
+I301,initiation,"{""RADIO"": -1, ""C10H2"": 0, ""ADIO"": 1, ""CHAR"": 0}","{""RADIO"": 1, ""C10H2"": 0, ""ADIO"": 0, ""CHAR"": 0}",gas,1*10**8,75348,False
+I302,initiation,"{""RC3H5O2"": -1, ""LIG"": -1, ""C3H6O2"": 1, ""RLIGA"": 1}","{""RC3H5O2"": 1, ""LIG"": 1, ""C3H6O2"": 0, ""RLIGA"": 0}",gas,1*10**8,66976,False
+I303,initiation,"{""PRFET3"": -1, ""LIG"": -1, ""PFET3"": 1, ""RLIGA"": 1}","{""PRFET3"": 1, ""LIG"": 1, ""PFET3"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I304,initiation,"{""RC3H7O2"": -1, ""LIG"": -1, ""C3H8O2"": 1, ""RLIGA"": 1}","{""RC3H7O2"": 1, ""LIG"": 1, ""C3H8O2"": 0, ""RLIGA"": 0}",gas,1*10**8,58604,False
+I305,initiation,"{""RADIOM2"": -1, ""LIG"": -1, ""ADIOM2"": 1, ""RLIGA"": 1}","{""RADIOM2"": 1, ""LIG"": 1, ""ADIOM2"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I306,initiation,"{""PRFET3M2"": -1, ""LIG"": -1, ""PFET3M2"": 1, ""RLIGA"": 1}","{""PRFET3M2"": 1, ""LIG"": 1, ""PFET3M2"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I307,initiation,"{""PRLIGH"": -1, ""LIG"": -1, ""PLIGH"": 1, ""RLIGA"": 1}","{""PRLIGH"": 1, ""LIG"": 1, ""PLIGH"": 0, ""RLIGA"": 0}",gas,1*10**8.5,37674,False
+I308,initiation,"{""RLIGM2B"": -1, ""LIG"": -1, ""LIGM2"": 1, ""RLIGA"": 1}","{""RLIGM2B"": 1, ""LIG"": 1, ""LIGM2"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I309,initiation,"{""RLIGM2A"": -1, ""LIG"": -1, ""LIGM2"": 1, ""RLIGA"": 1}","{""RLIGM2A"": 1, ""LIG"": 1, ""LIGM2"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I310,initiation,"{""RCH3"": -1, ""LIG"": -1, ""CH4"": 1, ""RLIGA"": 1}","{""RCH3"": 1, ""LIG"": 1, ""CH4"": 0, ""RLIGA"": 0}",gas,1*10**8.5,43953,False
+I311,initiation,"{""PRKETM2"": -1, ""LIG"": -1, ""PKETM2"": 1, ""RLIGA"": 1}","{""PRKETM2"": 1, ""LIG"": 1, ""PKETM2"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I312,initiation,"{""RKET"": -1, ""LIG"": -1, ""KET"": 1, ""RLIGA"": 1}","{""RKET"": 1, ""LIG"": 1, ""KET"": 0, ""RLIGA"": 0}",gas,1*10**8.5,50232,False
+I313,initiation,"{""PRADIO"": -1, ""LIG"": -1, ""PADIO"": 1, ""RLIGA"": 1}","{""PRADIO"": 1, ""LIG"": 1, ""PADIO"": 0, ""RLIGA"": 0}",gas,1*10**8,41860,False
+I314,initiation,"{""RC3H3O"": -1, ""LIG"": -1, ""C3H4O"": 1, ""RLIGA"": 1}","{""RC3H3O"": 1, ""LIG"": 1, ""C3H4O"": 0, ""RLIGA"": 0}",gas,1*10**8,79534,False
+I315,initiation,"{""RLIGB"": -1, ""LIG"": 1, ""RLIGA"": 1}","{""RLIGB"": 1, ""LIG"": 0, ""RLIGA"": 0}",gas,1*10**8,52325,False
+I316,initiation,"{""RLIGA"": 1, ""LIG"": 1}","{""RLIGA"": 1, ""LIG"": 1}",gas,1*10**8,52325,False
+I317,initiation,"{""PRADIOM2"": -1, ""LIG"": -1, ""PADIOM2"": 1, ""RLIGA"": 1}","{""PRADIOM2"": 1, ""LIG"": 1, ""PADIOM2"": 0, ""RLIGA"": 0}",gas,1*10**8.5,37674,False
+I318,initiation,"{""RMGUAI"": -1, ""LIG"": -1, ""MGUAI"": 1, ""RLIGA"": 1}","{""RMGUAI"": 1, ""LIG"": 1, ""MGUAI"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I319,initiation,"{""OH"": -1, ""LIG"": -1, ""H2O"": 1, ""RLIGA"": 1}","{""OH"": 1, ""LIG"": 1, ""H2O"": 0, ""RLIGA"": 0}",gas,1*10**9.5,10465,False
+I320,initiation,"{""RCH3O"": -1, ""LIG"": -1, ""CH3OH"": 1, ""RLIGA"": 1}","{""RCH3O"": 1, ""LIG"": 1, ""CH3OH"": 0, ""RLIGA"": 0}",gas,1*10**8.5,28883,False
+I321,initiation,"{""RPHENOL"": -1, ""LIG"": -1, ""PHENOL"": 1, ""RLIGA"": 1}","{""RPHENOL"": 1, ""LIG"": 1, ""PHENOL"": 0, ""RLIGA"": 0}",gas,1*10**8.5,50232,False
+I322,initiation,"{""RADIO"": -1, ""LIG"": -1, ""ADIO"": 1, ""RLIGA"": 1}","{""RADIO"": 1, ""LIG"": 1, ""ADIO"": 0, ""RLIGA"": 0}",gas,1*10**8,50232,False
+I323,initiation,"{""RC3H5O2"": -1, ""LIG"": -1, ""C3H6O2"": 1, ""RLIGB"": 1}","{""RC3H5O2"": 1, ""LIG"": 1, ""C3H6O2"": 0, ""RLIGB"": 0}",gas,1*10**8,66976,False
+I324,initiation,"{""PRFET3"": -1, ""LIG"": -1, ""PFET3"": 1, ""RLIGB"": 1}","{""PRFET3"": 1, ""LIG"": 1, ""PFET3"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+I325,initiation,"{""RC3H7O2"": -1, ""LIG"": -1, ""C3H8O2"": 1, ""RLIGB"": 1}","{""RC3H7O2"": 1, ""LIG"": 1, ""C3H8O2"": 0, ""RLIGB"": 0}",gas,1*10**8,58604,False
+I326,initiation,"{""RADIOM2"": -1, ""LIG"": -1, ""ADIOM2"": 1, ""RLIGB"": 1}","{""RADIOM2"": 1, ""LIG"": 1, ""ADIOM2"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+I327,initiation,"{""PRFET3M2"": -1, ""LIG"": -1, ""PFET3M2"": 1, ""RLIGB"": 1}","{""PRFET3M2"": 1, ""LIG"": 1, ""PFET3M2"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+I328,initiation,"{""PRLIGH"": -1, ""LIG"": -1, ""PLIGH"": 1, ""RLIGB"": 1}","{""PRLIGH"": 1, ""LIG"": 1, ""PLIGH"": 0, ""RLIGB"": 0}",gas,1*10**8.5,37674,False
+I329,initiation,"{""RLIGM2B"": -1, ""LIG"": -1, ""LIGM2"": 1, ""RLIGB"": 1}","{""RLIGM2B"": 1, ""LIG"": 1, ""LIGM2"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+I330,initiation,"{""RLIGM2A"": -1, ""LIG"": -1, ""LIGM2"": 1, ""RLIGB"": 1}","{""RLIGM2A"": 1, ""LIG"": 1, ""LIGM2"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+I331,initiation,"{""RCH3"": -1, ""LIG"": -1, ""CH4"": 1, ""RLIGB"": 1}","{""RCH3"": 1, ""LIG"": 1, ""CH4"": 0, ""RLIGB"": 0}",gas,1*10**8.5,43953,False
+I332,initiation,"{""PRKETM2"": -1, ""LIG"": -1, ""PKETM2"": 1, ""RLIGB"": 1}","{""PRKETM2"": 1, ""LIG"": 1, ""PKETM2"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+I333,initiation,"{""RKET"": -1, ""LIG"": -1, ""KET"": 1, ""RLIGB"": 1}","{""RKET"": 1, ""LIG"": 1, ""KET"": 0, ""RLIGB"": 0}",gas,1*10**8.5,50232,False
+I334,initiation,"{""PRADIO"": -1, ""LIG"": -1, ""PADIO"": 1, ""RLIGB"": 1}","{""PRADIO"": 1, ""LIG"": 1, ""PADIO"": 0, ""RLIGB"": 0}",gas,1*10**8,41860,False
+I335,initiation,"{""RC3H3O"": -1, ""LIG"": -1, ""C3H4O"": 1, ""RLIGB"": 1}","{""RC3H3O"": 1, ""LIG"": 1, ""C3H4O"": 0, ""RLIGB"": 0}",gas,1*10**8,79534,False
+I336,initiation,"{""RLIGB"": 1, ""LIG"": 1}","{""RLIGB"": 1, ""LIG"": 1}",gas,1*10**8,52325,False
+I337,initiation,"{""RLIGA"": -1, ""LIG"": 1, ""RLIGB"": 1}","{""RLIGA"": 1, ""LIG"": 0, ""RLIGB"": 0}",gas,1*10**8,52325,False
+I338,initiation,"{""PRADIOM2"": -1, ""LIG"": -1, ""PADIOM2"": 1, ""RLIGB"": 1}","{""PRADIOM2"": 1, ""LIG"": 1, ""PADIOM2"": 0, ""RLIGB"": 0}",gas,1*10**8.5,37674,False
+I339,initiation,"{""RMGUAI"": -1, ""LIG"": -1, ""MGUAI"": 1, ""RLIGB"": 1}","{""RMGUAI"": 1, ""LIG"": 1, ""MGUAI"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+I340,initiation,"{""OH"": -1, ""LIG"": -1, ""H2O"": 1, ""RLIGB"": 1}","{""OH"": 1, ""LIG"": 1, ""H2O"": 0, ""RLIGB"": 0}",gas,1*10**9.5,10465,False
+I341,initiation,"{""RCH3O"": -1, ""LIG"": -1, ""CH3OH"": 1, ""RLIGB"": 1}","{""RCH3O"": 1, ""LIG"": 1, ""CH3OH"": 0, ""RLIGB"": 0}",gas,1*10**8.5,28883,False
+I342,initiation,"{""RPHENOL"": -1, ""LIG"": -1, ""PHENOL"": 1, ""RLIGB"": 1}","{""RPHENOL"": 1, ""LIG"": 1, ""PHENOL"": 0, ""RLIGB"": 0}",gas,1*10**8.5,50232,False
+I343,initiation,"{""RADIO"": -1, ""LIG"": -1, ""ADIO"": 1, ""RLIGB"": 1}","{""RADIO"": 1, ""LIG"": 1, ""ADIO"": 0, ""RLIGB"": 0}",gas,1*10**8,50232,False
+P344,propagation,"{""RC3H5O2"": -1, ""PFET3"": -1, ""C3H6O2"": 1, ""PRFET3"": 1}","{""RC3H5O2"": 1, ""PFET3"": 1, ""C3H6O2"": 0, ""PRFET3"": 0}",gas,2*10**8,66976,False
+P345,propagation,"{""PRFET3"": 1, ""PFET3"": 1}","{""PRFET3"": 1, ""PFET3"": 1}",solid,2*10**8,50232,False
+P346,propagation,"{""RC3H7O2"": -1, ""PFET3"": -1, ""C3H8O2"": 1, ""PRFET3"": 1}","{""RC3H7O2"": 1, ""PFET3"": 1, ""C3H8O2"": 0, ""PRFET3"": 0}",gas,2*10**8,58604,False
+I347,initiation,"{""RADIOM2"": -1, ""PFET3"": -1, ""ADIOM2"": 1, ""PRFET3"": 1}","{""RADIOM2"": 1, ""PFET3"": 1, ""ADIOM2"": 0, ""PRFET3"": 0}",gas,2*10**8,50232,False
+P348,propagation,"{""PRFET3M2"": -1, ""PFET3"": -1, ""PFET3M2"": 1, ""PRFET3"": 1}","{""PRFET3M2"": 1, ""PFET3"": 1, ""PFET3M2"": 0, ""PRFET3"": 0}",solid,2*10**8,50232,False
+I349,initiation,"{""PRLIGH"": -1, ""PFET3"": -1, ""PLIGH"": 1, ""PRFET3"": 1}","{""PRLIGH"": 1, ""PFET3"": 1, ""PLIGH"": 0, ""PRFET3"": 0}",solid,2*10**8.5,37674,False
+I350,initiation,"{""RLIGM2B"": -1, ""PFET3"": -1, ""LIGM2"": 1, ""PRFET3"": 1}","{""RLIGM2B"": 1, ""PFET3"": 1, ""LIGM2"": 0, ""PRFET3"": 0}",gas,2*10**8,50232,False
+I351,initiation,"{""RLIGM2A"": -1, ""PFET3"": -1, ""LIGM2"": 1, ""PRFET3"": 1}","{""RLIGM2A"": 1, ""PFET3"": 1, ""LIGM2"": 0, ""PRFET3"": 0}",gas,2*10**8,50232,False
+P352,propagation,"{""RCH3"": -1, ""PFET3"": -1, ""CH4"": 1, ""PRFET3"": 1}","{""RCH3"": 1, ""PFET3"": 1, ""CH4"": 0, ""PRFET3"": 0}",gas,2*10**8.5,43953,False
+P353,propagation,"{""PRKETM2"": -1, ""PFET3"": -1, ""PKETM2"": 1, ""PRFET3"": 1}","{""PRKETM2"": 1, ""PFET3"": 1, ""PKETM2"": 0, ""PRFET3"": 0}",solid,2*10**8,50232,False
+P354,propagation,"{""RKET"": -1, ""PFET3"": -1, ""KET"": 1, ""PRFET3"": 1}","{""RKET"": 1, ""PFET3"": 1, ""KET"": 0, ""PRFET3"": 0}",gas,2*10**8.5,50232,False
+I355,initiation,"{""PRADIO"": -1, ""PFET3"": -1, ""PADIO"": 1, ""PRFET3"": 1}","{""PRADIO"": 1, ""PFET3"": 1, ""PADIO"": 0, ""PRFET3"": 0}",solid,2*10**8,41860,False
+P356,propagation,"{""RC3H3O"": -1, ""PFET3"": -1, ""C3H4O"": 1, ""PRFET3"": 1}","{""RC3H3O"": 1, ""PFET3"": 1, ""C3H4O"": 0, ""PRFET3"": 0}",gas,2*10**8,79534,False
+I357,initiation,"{""RLIGB"": -1, ""PFET3"": -1, ""LIG"": 1, ""PRFET3"": 1}","{""RLIGB"": 1, ""PFET3"": 1, ""LIG"": 0, ""PRFET3"": 0}",gas,2*10**8,52325,False
+I358,initiation,"{""RLIGA"": -1, ""PFET3"": -1, ""LIG"": 1, ""PRFET3"": 1}","{""RLIGA"": 1, ""PFET3"": 1, ""LIG"": 0, ""PRFET3"": 0}",gas,2*10**8,52325,False
+I359,initiation,"{""PRADIOM2"": -1, ""PFET3"": -1, ""PADIOM2"": 1, ""PRFET3"": 1}","{""PRADIOM2"": 1, ""PFET3"": 1, ""PADIOM2"": 0, ""PRFET3"": 0}",solid,2*10**8.5,37674,False
+I360,initiation,"{""RMGUAI"": -1, ""PFET3"": -1, ""MGUAI"": 1, ""PRFET3"": 1}","{""RMGUAI"": 1, ""PFET3"": 1, ""MGUAI"": 0, ""PRFET3"": 0}",gas,2*10**8,50232,False
+P361,propagation,"{""OH"": -1, ""PFET3"": -1, ""H2O"": 1, ""PRFET3"": 1}","{""OH"": 1, ""PFET3"": 1, ""H2O"": 0, ""PRFET3"": 0}",solid,2*10**9.5,10465,False
+P362,propagation,"{""RCH3O"": -1, ""PFET3"": -1, ""CH3OH"": 1, ""PRFET3"": 1}","{""RCH3O"": 1, ""PFET3"": 1, ""CH3OH"": 0, ""PRFET3"": 0}",gas,2*10**8.5,28883,False
+P363,propagation,"{""RPHENOL"": -1, ""PFET3"": -1, ""PHENOL"": 1, ""PRFET3"": 1}","{""RPHENOL"": 1, ""PFET3"": 1, ""PHENOL"": 0, ""PRFET3"": 0}",gas,2*10**8.5,50232,False
+I364,initiation,"{""RADIO"": -1, ""PFET3"": -1, ""ADIO"": 1, ""PRFET3"": 1}","{""RADIO"": 1, ""PFET3"": 1, ""ADIO"": 0, ""PRFET3"": 0}",gas,2*10**8,50232,False
+I365,initiation,"{""RC3H5O2"": -1, ""ADIO"": -1, ""C3H6O2"": 1, ""RADIO"": 1}","{""RC3H5O2"": 1, ""ADIO"": 1, ""C3H6O2"": 0, ""RADIO"": 0}",gas,1*10**8,66976,False
+I366,initiation,"{""PRFET3"": -1, ""ADIO"": -1, ""PFET3"": 1, ""RADIO"": 1}","{""PRFET3"": 1, ""ADIO"": 1, ""PFET3"": 0, ""RADIO"": 0}",gas,1*10**8,50232,False
+I367,initiation,"{""RC3H7O2"": -1, ""ADIO"": -1, ""C3H8O2"": 1, ""RADIO"": 1}","{""RC3H7O2"": 1, ""ADIO"": 1, ""C3H8O2"": 0, ""RADIO"": 0}",gas,1*10**8,58604,False
+I368,initiation,"{""RADIOM2"": -1, ""ADIO"": -1, ""ADIOM2"": 1, ""RADIO"": 1}","{""RADIOM2"": 1, ""ADIO"": 1, ""ADIOM2"": 0, ""RADIO"": 0}",gas,1*10**8,50232,False
+I369,initiation,"{""PRFET3M2"": -1, ""ADIO"": -1, ""PFET3M2"": 1, ""RADIO"": 1}","{""PRFET3M2"": 1, ""ADIO"": 1, ""PFET3M2"": 0, ""RADIO"": 0}",gas,1*10**8,50232,False
+I370,initiation,"{""PRLIGH"": -1, ""ADIO"": -1, ""PLIGH"": 1, ""RADIO"": 1}","{""PRLIGH"": 1, ""ADIO"": 1, ""PLIGH"": 0, ""RADIO"": 0}",gas,1*10**8.5,37674,False
+I371,initiation,"{""RLIGM2B"": -1, ""ADIO"": -1, ""LIGM2"": 1, ""RADIO"": 1}","{""RLIGM2B"": 1, ""ADIO"": 1, ""LIGM2"": 0, ""RADIO"": 0}",gas,1*10**8,50232,False
+I372,initiation,"{""RLIGM2A"": -1, ""ADIO"": -1, ""LIGM2"": 1, ""RADIO"": 1}","{""RLIGM2A"": 1, ""ADIO"": 1, ""LIGM2"": 0, ""RADIO"": 0}",gas,1*10**8,50232,False
+I373,initiation,"{""RCH3"": -1, ""ADIO"": -1, ""CH4"": 1, ""RADIO"": 1}","{""RCH3"": 1, ""ADIO"": 1, ""CH4"": 0, ""RADIO"": 0}",gas,1*10**8.5,43953,False
+I374,initiation,"{""PRKETM2"": -1, ""ADIO"": -1, ""PKETM2"": 1, ""RADIO"": 1}","{""PRKETM2"": 1, ""ADIO"": 1, ""PKETM2"": 0, ""RADIO"": 0}",gas,1*10**8,50232,False
+I375,initiation,"{""RKET"": -1, ""ADIO"": -1, ""KET"": 1, ""RADIO"": 1}","{""RKET"": 1, ""ADIO"": 1, ""KET"": 0, ""RADIO"": 0}",gas,1*10**8.5,50232,False
+I376,initiation,"{""PRADIO"": -1, ""ADIO"": -1, ""PADIO"": 1, ""RADIO"": 1}","{""PRADIO"": 1, ""ADIO"": 1, ""PADIO"": 0, ""RADIO"": 0}",gas,1*10**8,41860,False
+I377,initiation,"{""RC3H3O"": -1, ""ADIO"": -1, ""C3H4O"": 1, ""RADIO"": 1}","{""RC3H3O"": 1, ""ADIO"": 1, ""C3H4O"": 0, ""RADIO"": 0}",gas,1*10**8,79534,False
+I378,initiation,"{""RLIGB"": -1, ""ADIO"": -1, ""LIG"": 1, ""RADIO"": 1}","{""RLIGB"": 1, ""ADIO"": 1, ""LIG"": 0, ""RADIO"": 0}",gas,1*10**8,52325,False
+I379,initiation,"{""RLIGA"": -1, ""ADIO"": -1, ""LIG"": 1, ""RADIO"": 1}","{""RLIGA"": 1, ""ADIO"": 1, ""LIG"": 0, ""RADIO"": 0}",gas,1*10**8,52325,False
+I380,initiation,"{""PRADIOM2"": -1, ""ADIO"": -1, ""PADIOM2"": 1, ""RADIO"": 1}","{""PRADIOM2"": 1, ""ADIO"": 1, ""PADIOM2"": 0, ""RADIO"": 0}",gas,1*10**8.5,37674,False
+I381,initiation,"{""RMGUAI"": -1, ""ADIO"": -1, ""MGUAI"": 1, ""RADIO"": 1}","{""RMGUAI"": 1, ""ADIO"": 1, ""MGUAI"": 0, ""RADIO"": 0}",gas,1*10**8,50232,False
+I382,initiation,"{""OH"": -1, ""ADIO"": -1, ""H2O"": 1, ""RADIO"": 1}","{""OH"": 1, ""ADIO"": 1, ""H2O"": 0, ""RADIO"": 0}",gas,1*10**9.5,10465,False
+I383,initiation,"{""RCH3O"": -1, ""ADIO"": -1, ""CH3OH"": 1, ""RADIO"": 1}","{""RCH3O"": 1, ""ADIO"": 1, ""CH3OH"": 0, ""RADIO"": 0}",gas,1*10**8.5,28883,False
+I384,initiation,"{""RPHENOL"": -1, ""ADIO"": -1, ""PHENOL"": 1, ""RADIO"": 1}","{""RPHENOL"": 1, ""ADIO"": 1, ""PHENOL"": 0, ""RADIO"": 0}",gas,1*10**8.5,50232,False
+I385,initiation,"{""RADIO"": 1, ""ADIO"": 1}","{""RADIO"": 1, ""ADIO"": 1}",gas,1*10**8,50232,False
+T386,termination,"{""RC3H5O2"": -1, ""KET"": -1, ""C3H6O2"": 1, ""RKET"": 1}","{""RC3H5O2"": 1, ""KET"": 1, ""C3H6O2"": 0, ""RKET"": 0}",gas,1*10**8,66976,False
+P387,propagation,"{""PRFET3"": -1, ""KET"": -1, ""PFET3"": 1, ""RKET"": 1}","{""PRFET3"": 1, ""KET"": 1, ""PFET3"": 0, ""RKET"": 0}",gas,1*10**8,50232,False
+T388,termination,"{""RC3H7O2"": -1, ""KET"": -1, ""C3H8O2"": 1, ""RKET"": 1}","{""RC3H7O2"": 1, ""KET"": 1, ""C3H8O2"": 0, ""RKET"": 0}",gas,1*10**8,58604,False
+I389,initiation,"{""RADIOM2"": -1, ""KET"": -1, ""ADIOM2"": 1, ""RKET"": 1}","{""RADIOM2"": 1, ""KET"": 1, ""ADIOM2"": 0, ""RKET"": 0}",gas,1*10**8,50232,False
+P390,propagation,"{""PRFET3M2"": -1, ""KET"": -1, ""PFET3M2"": 1, ""RKET"": 1}","{""PRFET3M2"": 1, ""KET"": 1, ""PFET3M2"": 0, ""RKET"": 0}",gas,1*10**8,50232,False
+I391,initiation,"{""PRLIGH"": -1, ""KET"": -1, ""PLIGH"": 1, ""RKET"": 1}","{""PRLIGH"": 1, ""KET"": 1, ""PLIGH"": 0, ""RKET"": 0}",gas,1*10**8.5,37674,False
+I392,initiation,"{""RLIGM2B"": -1, ""KET"": -1, ""LIGM2"": 1, ""RKET"": 1}","{""RLIGM2B"": 1, ""KET"": 1, ""LIGM2"": 0, ""RKET"": 0}",gas,1*10**8,50232,False
+I393,initiation,"{""RLIGM2A"": -1, ""KET"": -1, ""LIGM2"": 1, ""RKET"": 1}","{""RLIGM2A"": 1, ""KET"": 1, ""LIGM2"": 0, ""RKET"": 0}",gas,1*10**8,50232,False
+T394,termination,"{""RCH3"": -1, ""KET"": -1, ""CH4"": 1, ""RKET"": 1}","{""RCH3"": 1, ""KET"": 1, ""CH4"": 0, ""RKET"": 0}",gas,1*10**8.5,43953,False
+P395,propagation,"{""PRKETM2"": -1, ""KET"": -1, ""PKETM2"": 1, ""RKET"": 1}","{""PRKETM2"": 1, ""KET"": 1, ""PKETM2"": 0, ""RKET"": 0}",gas,1*10**8,50232,False
+T396,termination,"{""RKET"": 1, ""KET"": 1}","{""RKET"": 1, ""KET"": 1}",gas,1*10**8.5,50232,False
+I397,initiation,"{""PRADIO"": -1, ""KET"": -1, ""PADIO"": 1, ""RKET"": 1}","{""PRADIO"": 1, ""KET"": 1, ""PADIO"": 0, ""RKET"": 0}",gas,1*10**8,41860,False
+T398,termination,"{""RC3H3O"": -1, ""KET"": -1, ""C3H4O"": 1, ""RKET"": 1}","{""RC3H3O"": 1, ""KET"": 1, ""C3H4O"": 0, ""RKET"": 0}",gas,1*10**8,79534,False
+I399,initiation,"{""RLIGB"": -1, ""KET"": -1, ""LIG"": 1, ""RKET"": 1}","{""RLIGB"": 1, ""KET"": 1, ""LIG"": 0, ""RKET"": 0}",gas,1*10**8,52325,False
+I400,initiation,"{""RLIGA"": -1, ""KET"": -1, ""LIG"": 1, ""RKET"": 1}","{""RLIGA"": 1, ""KET"": 1, ""LIG"": 0, ""RKET"": 0}",gas,1*10**8,52325,False
+I401,initiation,"{""PRADIOM2"": -1, ""KET"": -1, ""PADIOM2"": 1, ""RKET"": 1}","{""PRADIOM2"": 1, ""KET"": 1, ""PADIOM2"": 0, ""RKET"": 0}",gas,1*10**8.5,37674,False
+I402,initiation,"{""RMGUAI"": -1, ""KET"": -1, ""MGUAI"": 1, ""RKET"": 1}","{""RMGUAI"": 1, ""KET"": 1, ""MGUAI"": 0, ""RKET"": 0}",gas,1*10**8,50232,False
+T403,termination,"{""OH"": -1, ""KET"": -1, ""H2O"": 1, ""RKET"": 1}","{""OH"": 1, ""KET"": 1, ""H2O"": 0, ""RKET"": 0}",gas,1*10**9.5,10465,False
+T404,termination,"{""RCH3O"": -1, ""KET"": -1, ""CH3OH"": 1, ""RKET"": 1}","{""RCH3O"": 1, ""KET"": 1, ""CH3OH"": 0, ""RKET"": 0}",gas,1*10**8.5,28883,False
+P405,propagation,"{""RPHENOL"": -1, ""KET"": -1, ""PHENOL"": 1, ""RKET"": 1}","{""RPHENOL"": 1, ""KET"": 1, ""PHENOL"": 0, ""RKET"": 0}",gas,1*10**8.5,50232,False
+I406,initiation,"{""RADIO"": -1, ""KET"": -1, ""ADIO"": 1, ""RKET"": 1}","{""RADIO"": 1, ""KET"": 1, ""ADIO"": 0, ""RKET"": 0}",gas,1*10**8,50232,False

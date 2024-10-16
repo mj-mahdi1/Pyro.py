@@ -3,6 +3,9 @@
 # modules/kinetics.py
 
 import numpy as np
+import scipy as sp
+from scipy import fftpack
+from scipy import integrate
 
 # Universal gas constant
 R = 8.314  # J/(mol*K)
